@@ -1,0 +1,32 @@
+[03:10:23] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[03:10:23] [Server thread/INFO]: Loading properties
+[03:10:23] [Server thread/INFO]: Default game type: SURVIVAL
+[03:10:23] [Server thread/INFO]: Generating keypair
+[03:10:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:10:24] [Server thread/INFO]: Using epoll channel type
+[03:10:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:10:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:10:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:10:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:10:24] [Server thread/INFO]: Preparing level "world"
+[03:10:24] [Server thread/INFO]: Loaded 488 advancements
+[03:10:24] [Server thread/INFO]: Preparing start region for level 0
+[03:10:25] [Server thread/INFO]: Preparing spawn area: 68%
+[03:10:25] [Server thread/INFO]: Done (1.547s)! For help, type "help" or "?"
+[03:10:40] [Server thread/INFO]: juanquis44[/186.151.24.15:36335] logged in with entity id 284 at (58.669520604459265, 71.0, 238.0150297622504)
+[03:10:41] [Server thread/INFO]: juanquis44 joined the game
+[03:10:49] [Server thread/INFO]: PechoPlomo800[/181.209.195.200:43692] logged in with entity id 425 at (78.21849974089396, 70.0, 244.36050500916036)
+[03:10:49] [Server thread/INFO]: PechoPlomo800 joined the game
+[03:11:05] [Server thread/INFO]: PechoPlomo800 lost connection: Timed out
+[03:11:05] [Server thread/INFO]: PechoPlomo800 left the game
+[03:11:08] [Server thread/INFO]: [juanquis44: Set the time to 1000]
+[03:11:14] [Server thread/INFO]: [juanquis44: Set own game mode to Creative Mode]
+[03:11:26] [Server thread/INFO]: [juanquis44: Teleported juanquis44 to juanquis44]
+[03:11:46] [Server thread/INFO]: [juanquis44: Changing to clear weather]
+[03:11:52] [Server thread/INFO]: PechoPlomo800[/181.209.195.200:45804] logged in with entity id 1782 at (78.21849974089396, 70.0, 244.36050500916036)
+[03:11:52] [Server thread/INFO]: PechoPlomo800 joined the game
+[03:12:53] [Server thread/INFO]: [juanquis44: Teleported juanquis44 to PechoPlomo800]
+[03:16:23] [Server thread/INFO]: PechoPlomo800 lost connection: Disconnected
+[03:16:23] [Server thread/INFO]: PechoPlomo800 left the game
+[03:17:28] [Server Shutdown Thread/INFO]: Stopping server
+[03:17:28] [Server Shutdown Thread/INFO]: Saving players
