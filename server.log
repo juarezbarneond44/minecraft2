@@ -92,3 +92,67 @@
 2022-12-17 10:55:40 [INFO] /192.168.187.1:62316 lost connection
 2022-12-17 10:55:44 [INFO] /192.168.187.1:62319 lost connection
 2022-12-17 10:55:44 [INFO] /192.168.187.1:62320 lost connection
+2022-12-17 11:05:28 [INFO] Starting minecraft server version 1.5.2
+2022-12-17 11:05:28 [INFO] Loading properties
+2022-12-17 11:05:28 [INFO] Default game type: SURVIVAL
+2022-12-17 11:05:28 [INFO] Generating keypair
+2022-12-17 11:05:28 [INFO] Starting Minecraft server on *:25565
+2022-12-17 11:05:28 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-12-17 11:05:28 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-12-17 11:05:28 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-12-17 11:05:28 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-12-17 11:05:28 [INFO] Preparing level "World"
+2022-12-17 11:05:28 [INFO] Preparing start region for level 0
+2022-12-17 11:05:28 [INFO] Done (0,454s)! For help, type "help" or "?"
+2022-12-17 11:05:31 [INFO] Disconnecting /192.168.187.1:62428: Protocol error
+2022-12-17 11:05:31 [INFO] /192.168.187.1:62428 lost connection
+2022-12-17 11:05:31 [INFO] /192.168.187.1:62429 lost connection
+2022-12-17 11:05:57 [INFO] Disconnecting /192.168.187.1:62434: Protocol error
+2022-12-17 11:05:57 [INFO] /192.168.187.1:62434 lost connection
+2022-12-17 11:05:57 [INFO] /192.168.187.1:62435 lost connection
+2022-12-17 11:06:10 [INFO] Disconnecting /192.168.187.1:62438: Protocol error
+2022-12-17 11:06:10 [INFO] /192.168.187.1:62438 lost connection
+2022-12-17 11:06:10 [INFO] /192.168.187.1:62439 lost connection
+2022-12-17 11:06:40 [INFO] /192.168.187.1:62450 lost connection
+2022-12-17 11:06:40 [INFO] /192.168.187.1:62451 lost connection
+2022-12-17 11:06:52 [INFO] Disconnecting /192.168.187.1:62457: Protocol error
+2022-12-17 11:06:52 [INFO] /192.168.187.1:62457 lost connection
+2022-12-17 11:06:52 [INFO] /192.168.187.1:62458 lost connection
+2022-12-17 11:06:53 [INFO] /192.168.187.1:62459 lost connection
+2022-12-17 11:06:57 [INFO] /192.168.187.1:62461 lost connection
+2022-12-17 11:06:57 [INFO] /192.168.187.1:62462 lost connection
+2022-12-17 11:06:57 [INFO] /192.168.187.1:62463 lost connection
+2022-12-17 11:07:11 [INFO] Stopping server
+2022-12-17 11:07:13 [INFO] Starting minecraft server version 1.5.2
+2022-12-17 11:07:13 [INFO] Loading properties
+2022-12-17 11:07:13 [INFO] Default game type: SURVIVAL
+2022-12-17 11:07:13 [INFO] Generating keypair
+2022-12-17 11:07:13 [INFO] Starting Minecraft server on 192.168.187.1:25565
+2022-12-17 11:07:13 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-12-17 11:07:13 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-12-17 11:07:13 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-12-17 11:07:13 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-12-17 11:07:13 [INFO] Preparing level "World"
+2022-12-17 11:07:13 [INFO] Preparing start region for level 0
+2022-12-17 11:07:13 [INFO] Done (0,419s)! For help, type "help" or "?"
+2022-12-17 11:07:15 [INFO] Disconnecting /192.168.187.1:62471: Protocol error
+2022-12-17 11:07:15 [INFO] /192.168.187.1:62471 lost connection
+2022-12-17 11:07:15 [INFO] /192.168.187.1:62472 lost connection
+2022-12-17 11:07:20 [INFO] /192.168.187.1:62473 lost connection
+2022-12-17 11:07:20 [INFO] /192.168.187.1:62474 lost connection
+2022-12-17 11:07:20 [INFO] /192.168.187.1:62475 lost connection
+2022-12-17 11:07:20 [INFO] /192.168.187.1:62476 lost connection
+2022-12-17 11:07:47 [INFO] Stopping server
+2022-12-17 11:18:23 [INFO] Starting minecraft server version 1.5.2
+2022-12-17 11:18:23 [INFO] Loading properties
+2022-12-17 11:18:23 [INFO] Default game type: SURVIVAL
+2022-12-17 11:18:23 [INFO] Generating keypair
+2022-12-17 11:18:23 [INFO] Starting Minecraft server on 192.168.187.1:25565
+2022-12-17 11:18:23 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-12-17 11:18:23 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-12-17 11:18:23 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-12-17 11:18:23 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-12-17 11:18:23 [INFO] Preparing level "World"
+2022-12-17 11:18:23 [INFO] Preparing start region for level 0
+2022-12-17 11:18:24 [INFO] Done (0,424s)! For help, type "help" or "?"
+2022-12-17 11:18:26 [INFO] Stopping server
