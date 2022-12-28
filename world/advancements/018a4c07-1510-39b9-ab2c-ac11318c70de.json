@@ -715,6 +715,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2022-12-27 22:18:04 +0000",
+      "wither_skeleton": "2022-12-27 22:21:15 +0000",
       "magma_cube": "2022-12-27 15:13:03 +0000",
       "vindicator": "2022-12-24 05:26:17 +0000",
       "skeleton": "2022-12-24 01:55:32 +0000",
@@ -723,6 +725,7 @@
       "zombie": "2022-12-24 01:40:46 +0000",
       "cave_spider": "2022-12-24 04:53:54 +0000",
       "spider": "2022-12-24 00:54:29 +0000",
+      "ghast": "2022-12-28 00:02:20 +0000",
       "creeper": "2022-12-24 01:55:40 +0000"
     },
     "done": false
@@ -1744,6 +1747,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2022-12-27 23:46:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_the_recipe": "2022-12-24 00:35:44 +0000"
@@ -2666,6 +2675,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_the_recipe": "2022-12-24 00:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-12-27 22:21:26 +0000"
     },
     "done": true
   },

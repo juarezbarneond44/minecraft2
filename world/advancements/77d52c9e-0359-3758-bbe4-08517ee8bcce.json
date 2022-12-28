@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "abyssalcraft:shadow_gems": {
+    "criteria": {
+      "necronomicon": "2022-12-27 22:25:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2022-12-24 00:48:33 +0000"
@@ -691,11 +697,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2022-12-27 22:22:28 +0000",
+      "wither_skeleton": "2022-12-27 22:17:39 +0000",
+      "magma_cube": "2022-12-27 22:18:39 +0000",
       "skeleton": "2022-12-24 01:59:34 +0000",
+      "blaze": "2022-12-27 22:18:35 +0000",
       "zombie": "2022-12-24 01:45:53 +0000",
       "cave_spider": "2022-12-24 06:41:21 +0000",
       "witch": "2022-12-24 04:29:07 +0000",
       "spider": "2022-12-24 04:25:36 +0000",
+      "ghast": "2022-12-27 22:28:58 +0000",
       "creeper": "2022-12-24 02:49:56 +0000"
     },
     "done": false
@@ -1619,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-12-27 22:13:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_the_recipe": "2022-12-24 00:48:33 +0000"
@@ -1688,6 +1705,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2022-12-24 00:48:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2022-12-28 02:38:38 +0000"
     },
     "done": true
   },
@@ -1931,6 +1954,12 @@
     },
     "done": true
   },
+  "ancientbeasts:kill_netherhound": {
+    "criteria": {
+      "Netherhound": "2022-12-27 22:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-12-24 00:54:01 +0000"
@@ -2159,6 +2188,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-12-27 22:13:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2022-12-24 00:48:33 +0000"
@@ -2363,6 +2398,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-12-27 22:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_the_recipe": "2022-12-24 00:48:33 +0000"
@@ -2531,6 +2572,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-12-27 22:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_the_recipe": "2022-12-24 00:48:33 +0000"
@@ -2570,6 +2617,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_the_recipe": "2022-12-24 00:48:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-12-27 22:29:17 +0000"
     },
     "done": true
   },
