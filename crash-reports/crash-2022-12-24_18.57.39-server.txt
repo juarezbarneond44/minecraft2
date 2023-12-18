@@ -1,0 +1,155 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  ReachFixPlugin (ReachFix-1.12.2-1.0.6.jar)
+  SecurityCraftLoadingPlugin ([1.12.2]+SecurityCraft+v1.9.4.jar)
+  CQRPlugin (Chocolate_Quest_Repoured-1.12.2-2.6.12B.jar)
+  CreativePatchingLoader (CreativeCore_v1.10.70_mc1.12.2.jar)
+  LevelUpCore (levelup2-1.5.8.jar)
+  Quark Plugin (Quark-r1.6-179.jar)
+  SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.4.1.jar)
+Contact their authors BEFORE contacting forge
+
+// I let you down. Sorry :(
+
+Time: 12/24/22 6:57 PM
+Description: Exception in server tick loop
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+	at java.util.HashMap$EntryIterator.next(HashMap.java:1503)
+	at java.util.HashMap$EntryIterator.next(HashMap.java:1501)
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onUpdate(PhoenixDiveEnchantment.java:120)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_399_PhoenixDiveEnchantment_onUpdate_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 5.4.0-1096-gcp
+	Java Version: 1.8.0_352, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 4161772304 bytes (3968 MB) / 5392826368 bytes (5143 MB) up to 5392826368 bytes (5143 MB)
+	JVM Flags: 2 total; -Xms5200M -Xmx5200M
+	IntCache: cache: 5, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 66 mods loaded, 66 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                       | Version                 | Source                                        | Signature                                |
+	|:------ |:------------------------ |:----------------------- |:--------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft                | 1.12.2                  | minecraft.jar                                 | None                                     |
+	| LCHIJA | mcp                      | 9.42                    | minecraft.jar                                 | None                                     |
+	| LCHIJA | FML                      | 8.0.99.99               | server.jar                                    | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge                    | 14.23.5.2860            | server.jar                                    | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | creativecoredummy        | 1.0.0                   | minecraft.jar                                 | None                                     |
+	| LCHIJA | securitycraft            | v1.9.4                  | [1.12.2]+SecurityCraft+v1.9.4.jar             | None                                     |
+	| LCHIJA | crafttweaker             | 4.1.20                  | CraftTweaker2-1.12-4.1.20.680.jar             | None                                     |
+	| LCHIJA | jei                      | 4.16.1.302              | jei_1.12.2-4.16.1.302.jar                     | None                                     |
+	| LCHIJA | abyssalcraft             | 2.0.0-ALPHA-4           | AbyssalCraft-1.12.2-2.0.0-ALPHA-4.jar         | 220f10d3a93b3ff5fbaa7434cc629d863d6751b9 |
+	| LCHIJA | ancientbeasts            | 1.9.99999               | ancientbeasts-1.9.99999.jar                   | None                                     |
+	| LCHIJA | baubles                  | 1.5.2                   | Baubles-1.12-1.5.2.jar                        | None                                     |
+	| LCHIJA | artifacts                | 1.12.2-1.2.3            | Artifacts-1.12.2-1.2.3.jar                    | None                                     |
+	| LCHIJA | tombstone                | 4.5.13                  | tombstone-4.5.13-1.12.2.jar                   | None                                     |
+	| LCHIJA | quark                    | r1.6-179                | Quark-r1.6-179.jar                            | None                                     |
+	| LCHIJA | autoreglib               | 1.3-32                  | AutoRegLib-1.3-32.jar                         | None                                     |
+	| LCHIJA | mantle                   | 1.12-1.3.3.55           | Mantle-1.12-1.3.3.55.jar                      | None                                     |
+	| LCHIJA | tinkers_reforged_preload | 1.5.6                   | tinkers_reforged-1.5.6.jar                    | None                                     |
+	| LCHIJA | tconstruct               | 1.12.2-2.13.0.183       | TConstruct-1.12.2-2.13.0.183.jar              | None                                     |
+	| LCHIJA | biolib                   | 1.1.3                   | biolib-1.1.3.jar                              | None                                     |
+	| LCHIJA | bookshelf                | 2.3.590                 | Bookshelf-1.12.2-2.3.590.jar                  | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | bountifulbaubles         | 0.0.1                   | Bountiful Baubles-1.12.2-0.1.8.jar            | None                                     |
+	| LCHIJA | cqrepoured               | 2.6.12B                 | Chocolate_Quest_Repoured-1.12.2-2.6.12B.jar   | None                                     |
+	| LCHIJA | clumps                   | 3.1.2                   | Clumps-3.1.2.jar                              | None                                     |
+	| LCHIJA | comforts                 | 1.4.1.3                 | comforts-1.12.2-1.4.1.3.jar                   | 2484ef4d131fdc0dca0647aa21b7b944ddb935a1 |
+	| LCHIJA | crafttweakerjei          | 2.0.3                   | CraftTweaker2-1.12-4.1.20.680.jar             | None                                     |
+	| LCHIJA | creativecore             | 1.10.0                  | CreativeCore_v1.10.70_mc1.12.2.jar            | None                                     |
+	| LCHIJA | elevatorid               | 1.3.14                  | ElevatorMod-1.12.2-1.3.14.jar                 | None                                     |
+	| LCHIJA | eplus                    | 5.0.179                 | EnchantingPlus-1.12.2-5.0.179.jar             | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | umm3185118519            | release 1.5 - MC 1.12.2 | Extended+ItemsOres+[1.12.2]+(release+1.5).jar | None                                     |
+	| LCHIJA | excp                     | 1.0.6                   | extraCreepers-1.0.6.jar                       | None                                     |
+	| LCHIJA | geckolib3                | 3.0.30                  | geckolib-forge-1.12.2-3.0.31.jar              | None                                     |
+	| LCHIJA | gb                       | 1.1.206                 | Gobber-1.12.2_1.1.207.jar                     | None                                     |
+	| LCHIJA | grimoireofgaia           | 1.7.2                   | GrimoireOfGaia3-1.12.2-1.7.2.jar              | None                                     |
+	| LCHIJA | heroicarmory             | 1.1.3                   | heroicarmory-1.2.0.jar                        | None                                     |
+	| LCHIJA | waila                    | 1.8.26                  | Hwyla-1.8.26-B41_1.12.2.jar                   | None                                     |
+	| LCHIJA | illagers_plus            | 1.1                     | IllagersPlus-1.12.2-1.1.3.jar                 | None                                     |
+	| LCHIJA | infernalmobs             | 1.7.6                   | InfernalMobs-1.12.2.jar                       | None                                     |
+	| LCHIJA | journeymap               | 1.12.2-5.7.1            | journeymap-1.12.2-5.7.1.jar                   | None                                     |
+	| LCHIJA | levelup2                 | ${version}              | levelup2-1.5.8.jar                            | None                                     |
+	| LCHIJA | lootbags                 | 2.5.8.7                 | lootbags-2.5.8.7.jar                          | None                                     |
+	| LCHIJA | mutantbeasts             | 1.12.2-1.0.2            | MutantBeasts-1.12.2-1.0.2.jar                 | None                                     |
+	| LCHIJA | nocubessrparmory         | 3.0.0                   | NoCubes_SRP_Combat_Addon_3.0.0.jar            | None                                     |
+	| LCHIJA | playerrevive             | 1.0                     | PlayerRevive_v1.2.40_mc1.12.2.jar             | None                                     |
+	| LCHIJA | potionfingers            | r1.0-8                  | PotionFingers-r1.0-8.jar                      | None                                     |
+	| LCHIJA | randomloot               | 1.7.5                   | randomloot-1.12.2-1.7.5.jar                   | None                                     |
+	| LCHIJA | reachfix                 | 1.0.6                   | ReachFix-1.12.2-1.0.6.jar                     | None                                     |
+	| LCHIJA | redstoneflux             | 2.1.1                   | RedstoneFlux-1.12-2.1.1.1-universal.jar       | None                                     |
+	| LCHIJA | subcommonlib             | 1.2.0.1                 | subcommonlib-sublib-1.12.2-1.2.0.4.jar        | None                                     |
+	| LCHIJA | rpginventory             | 1.12.2                  | rpginventory-1.12-5.3.0.0.jar                 | None                                     |
+	| LCHIJA | silentlib                | 3.0.13                  | SilentLib-1.12.2-3.0.14+168.jar               | None                                     |
+	| LCHIJA | scalinghealth            | 1.3.37                  | ScalingHealth-1.12.2-1.3.42+147.jar           | None                                     |
+	| LCHIJA | soulboundarmory          | 2.10.11                 | soulboundarmory-2.10.11.jar                   | None                                     |
+	| LCHIJA | spartanshields           | 1.5.5                   | SpartanShields-1.12.2-1.5.5.jar               | None                                     |
+	| LCHIJA | xat                      | 0.31.4                  | Trinkets and Baubles-0.31.4.jar               | None                                     |
+	| LCHIJA | spartanweaponry          | 1.4.1                   | SpartanWeaponry-1.12.2-1.4.1.jar              | None                                     |
+	| LCHIJA | srparasites              | 1.9.8                   | SRParasites-1.12.2v1.9.8.jar                  | None                                     |
+	| LCHIJA | tesla                    | 1.0.63                  | Tesla-1.12.2-1.0.63.jar                       | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | tetra                    | 0.39.1                  | tetra-1.12.2-0.39.1.jar                       | None                                     |
+	| LCHIJA | theoneprobe              | 1.4.28                  | theoneprobe-1.12-1.4.28.jar                   | None                                     |
+	| LCHIJA | tinkers_reforged         | 1.5.6                   | tinkers_reforged-1.5.6.jar                    | None                                     |
+	| LCHIJA | uteamcore                | 2.2.5.226               | u_team_core-1.12.2-2.2.5.226.jar              | None                                     |
+	| LCHIJA | usefulbackpacks          | 1.5.4.85                | useful_backpacks-1.12.2-1.5.4.85.jar          | None                                     |
+	| LCHIJA | waystones                | 4.1.0                   | Waystones_1.12.2-4.1.0.jar                    | None                                     |
+	| LCHIJA | wonderful_enchantments   | 0.6.0                   | wonderful-enchantments-1.12.2-0.6.0.jar       | None                                     |
+	| LCHIJA | xpbook                   | v2.0.1                  | xptome-1.12.2-v2.0.1.jar                      | None                                     |
+	| LCHIJA | jade                     | 0.1.0                   | Jade-0.1.0.jar                                | None                                     |
+
+	Loaded coremods (and transformers): 
+ReachFixPlugin (ReachFix-1.12.2-1.0.6.jar)
+  meldexun.reachfix.asm.ReachFixClassTransformer
+SecurityCraftLoadingPlugin ([1.12.2]+SecurityCraft+v1.9.4.jar)
+  
+CQRPlugin (Chocolate_Quest_Repoured-1.12.2-2.6.12B.jar)
+  team.cqr.cqrepoured.asm.CQRClassTransformer
+CreativePatchingLoader (CreativeCore_v1.10.70_mc1.12.2.jar)
+  
+LevelUpCore (levelup2-1.5.8.jar)
+  
+Quark Plugin (Quark-r1.6-179.jar)
+  vazkii.quark.base.asm.ClassTransformer
+SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.4.1.jar)
+  
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+		- wailaIntegration (Enabled/Not Forced)
+		- theoneprobeIntegration (Enabled/Not Forced)
+		- quarkIntegration (Enabled/Not Forced)
+
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 10; [EntityPlayerMP['MickyGamer'/249, l='world', x=210.68, y=71.75, z=788.75]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
