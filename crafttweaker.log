@@ -1,0 +1,2140 @@
+[PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+Belathus
+DreamThorn
+BrÃ¸nsted
+AdaraChristine
+Quaternary
+NickT
+Luvely
+Riley
+Genryu
+Phillip Swearingain
+Spencer Gilbert
+Ncc1702
+Peregrinus11
+WaterMoon
+Zuniroa
+Ivy_
+Hooley
+Jessie Sims
+Pongo Sapiens
+NerdyWhiteGuy
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[10:crafttweaker]: loot/thp.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[10:crafttweaker]: thp_changes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[10:crafttweaker]: thp_craftable_starting_gear.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: loot/thp_modded_chests.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: loot/thp_vanilla_chests.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 2ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[10:crafttweaker]: loot/thp.zs}
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:6 > could not find package null
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:7 > could not find package null
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:8 > could not find package null
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:9 > could not find package null
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:45: Could not resolve <growthcraft_rice : rice>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:47: Could not resolve <growthcraft_apples : apple_sapling>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:50: Could not resolve <thermalfoundation : material : 129>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:51: Could not resolve <thermalfoundation : material : 128>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:63: Could not resolve <chisel : chisel_iron>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:67: Could not resolve <mocreatures : sharksword>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:68: Could not resolve <mocreatures : sharkteeth>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:69: Could not resolve <thermalfoundation : material : 132>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:75: Could not resolve <betterbuilderswands : wandstone>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:76: Could not resolve <xreliquary : bullet : 3>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:77: Could not resolve <xreliquary : bullet : 5>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:78: Could not resolve <skewers : skewer_cookie>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:79: Could not resolve <skewers : skewer_caramel_apple>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:80: Could not resolve <skewers : skewer_cod_raw>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:81: Could not resolve <skewers : skewer_salmon_raw>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:82: Could not resolve <skewers : skewer_veggie_raw>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:83: Could not resolve <skewers : skewer_chicken_raw>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:84: Could not resolve <skewers : skewer_rabbit_raw>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:85: Could not resolve <skewers : skewer_mutton_raw>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:86: Could not resolve <skewers : skewer_beef_raw>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:87: Could not resolve <skewers : skewer_porkchop_raw>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:88: Could not resolve <natura : sticks>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:89: Could not resolve <natura : sticks : 1>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:90: Could not resolve <natura : sticks : 2>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:91: Could not resolve <natura : sticks : 2>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:92: Could not resolve <natura : sticks : 3>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:93: Could not resolve <natura : sticks : 4>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:94: Could not resolve <natura : sticks : 5>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:95: Could not resolve <natura : sticks : 6>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:96: Could not resolve <natura : sticks : 7>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:97: Could not resolve <natura : sticks : 8>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:98: Could not resolve <openblocks : path>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:99: Could not resolve <openblocks : generic>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:105: Could not resolve <morebows : stone_bow>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:106: Could not resolve <morebows : iron_bow>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:117: Could not resolve <asr : stone_giant_sword>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:118: Could not resolve <traverse : orange_autumnal_sapling>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:119: Could not resolve <traverse : yellow_autumnal_sapling>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:125: Could not resolve <backpack : stick>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:145: Could not resolve <fairylights : pennant : 4>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:146: Could not resolve <fairylights : light : 66>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:147: Could not resolve <fairylights : light : 9>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:148: Could not resolve <fairylights : pennant_bunting>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:149: Could not resolve <fairylights : hanging_lights>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:150: Could not resolve <chococraftplus : gysahl_seeds>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:151: Could not resolve <natura : overworld_seeds>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:152: Could not resolve <natura : overworld_seeds : 1>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:153: Could not resolve <microblockcbe : saw_iron>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:159: Could not resolve <backpack : bound_leather>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:161: Could not resolve <mocreatures : woolball>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:206: Could not resolve <fairylights : light : 28>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:207: Could not resolve <fairylights : light : 61>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:208: Could not resolve <fairylights : light : 84>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:209: Could not resolve <fairylights : light : 135>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:210: Could not resolve <fairylights : light : 209>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:211: Could not resolve <fairylights : ladder>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:227: Could not resolve <xreliquary : attraction_potion>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:228: Could not resolve <xreliquary : fertile_potion>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:230: Could not resolve <thermalfoundation : horse_armor_tin>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:231: Could not resolve <thermalfoundation : horse_armor_bronze>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:241: Could not resolve <mocreatures : whip>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:242: Could not resolve <mocreatures : fishnet>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:244: Could not resolve <thermalfoundation : material : 16>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:257: Could not resolve <testdummy : dummy>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:258: Could not resolve <lostbooks : random_book>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:259: Could not resolve <xreliquary : bullet>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:260: Could not resolve <xreliquary : bullet : 1>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:264: Could not resolve <mocreatures : reptileplate>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:265: Could not resolve <mocreatures : reptilelegs>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:266: Could not resolve <mocreatures : reptileboots>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:267: Could not resolve <mocreatures : tuskswood>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:268: Could not resolve <mocreatures : tusksiron>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:269: Could not resolve <mocreatures : elephantchest>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:270: Could not resolve <mocreatures : mammothplatform>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:271: Could not resolve <mocreatures : elephantharness>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:275: Could not resolve <backpack : tanned_leather>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:276: Could not resolve <bibliocraft : tapemeasure>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:277: Could not resolve <bibliocraft : biblioglasses : 2>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:278: Could not resolve <chococraftplus : chocobo_saddle>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:279: Could not resolve <asr : iron_giant_sword>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:292: Could not resolve <mocreatures : kittylitter>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:293: Could not resolve <betterbuilderswands : wandiron>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:294: Could not resolve <exchangers : exchanger_core_tier1>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:295: Could not resolve <exchangers : wooden_exchanger>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:296: Could not resolve <mocreatures : ratburger>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:297: Could not resolve <mocreatures : furhelmet>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:298: Could not resolve <mocreatures : furchest>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:299: Could not resolve <mocreatures : furlegs>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:300: Could not resolve <mocreatures : furboots>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:301: Could not resolve <mocreatures : reptilehelmet>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:332: Could not resolve <mocreatures : horsesaddle>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:333: Could not resolve <mocreatures : silversword>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:339: Could not resolve <openblocks : paintbrush>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:340: Could not resolve <ironchest : iron_gold_chest_upgrade>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:353: Could not resolve <natura : overworld_sapling>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:354: Could not resolve <natura : overworld_sapling : 1>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:355: Could not resolve <natura : overworld_sapling : 2>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:356: Could not resolve <natura : overworld_sapling : 3>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:357: Could not resolve <natura : overworld_sapling2>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:358: Could not resolve <natura : overworld_sapling2 : 1>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:359: Could not resolve <natura : overworld_sapling2 : 2>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:360: Could not resolve <natura : overworld_sapling2 : 3>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:361: Could not resolve <natura : redwood_sapling>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:363: Could not resolve <mocreatures : sugarlump>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:364: Could not resolve <mocreatures : haystack>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:365: Could not resolve <ironchest : wood_iron_chest_upgrade>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:368: Could not resolve <openblocks : luggage>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:376: Could not resolve <chiselsandbits : bitsaw_diamond>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:377: Could not resolve <hexxitgear : refresher_shard>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:378: Could not resolve <morebows : frost_bow>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:379: Could not resolve <morebows : flame_bow>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:380: Could not resolve <morebows : gold_bow>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:382: Could not resolve <xreliquary : potion>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:388: Could not resolve <backpack : stick : 1>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:391: Could not resolve <mocreatures : medallion>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:394: Could not resolve <conarm : travel_belt_base>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:395: Could not resolve <conarm : gauntlet_mat>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:396: Could not resolve <conarm : travel_cloak>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:397: Could not resolve <conarm : travel_goggles_base>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:399: Could not resolve <xreliquary : mob_ingredient : 7>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:400: Could not resolve <xreliquary : mob_ingredient : 4>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:401: Could not resolve <xreliquary : mob_ingredient : 3>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:408: Could not resolve <xreliquary : mob_ingredient : 11>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:409: Could not resolve <xreliquary : mob_ingredient : 10>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:424: Could not resolve <xreliquary : fertile_lilypad>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:425: Could not resolve <xreliquary : glowing_bread>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:426: Could not resolve <xreliquary : emperor_chalice>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:427: Could not resolve <xreliquary : harvest_rod>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:428: Could not resolve <xreliquary : sojourner_staff>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:429: Could not resolve <xreliquary : hero_medallion>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:430: Could not resolve <xreliquary : infernal_claws>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:431: Could not resolve <xreliquary : kraken_shell>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:440: Could not resolve <xreliquary : handgun>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:441: Could not resolve <mocreatures : scorphelmetcave>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:442: Could not resolve <mocreatures : scorpplatecave>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:443: Could not resolve <mocreatures : scorplegscave>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:444: Could not resolve <mocreatures : scorpbootscave>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:445: Could not resolve <betterbuilderswands : wanddiamond>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:446: Could not resolve <xreliquary : twilight_cloak>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:447: Could not resolve <twilightforest : magic_map_empty>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:459: Could not resolve <naturescompass : naturescompass>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:460: Could not resolve <asr : diamond_giant_sword>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:508: Could not resolve <torchmaster : mega_torch>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:509: Could not resolve <mocreatures : horsearmorcrystal>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:510: Could not resolve <mocreatures : tusksdiamond>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:511: Could not resolve <exchangers : golden_exchanger>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:512: Could not resolve <jexclusives : crystal>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:513: Could not resolve <openblocks : golden_egg>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:514: Could not resolve <hexxitgear : hexical_essence>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:515: Could not resolve <openblocks : technicolor_glasses>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:516: Could not resolve <mocreatures : scorphelmetfrost>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:517: Could not resolve <mocreatures : scorpplatefrost>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:518: Could not resolve <mocreatures : scorplegsfrost>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:519: Could not resolve <mocreatures : scorpbootsfrost>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:520: Could not resolve <xreliquary : holy_hand_grenade>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:521: Could not resolve <mocreatures : heartundead>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:522: Could not resolve <mocreatures : heartfire>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:523: Could not resolve <mocreatures : heartdarkness>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:524: Could not resolve <xreliquary : harvest_rod>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:527: Could not resolve <xreliquary : mob_ingredient : 8>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:528: Could not resolve <hexxitworld : material : 2>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:529: Could not resolve <morebows : multi_bow>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:530: Could not resolve <morebows : diamond_bow>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:531: Could not resolve <morebows : ender_bow>
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:33 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:35 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:38 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:41 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:41 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:42 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:42 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:43 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:43 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:44 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:44 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:45 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:45 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:46 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:46 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:47 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:47 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:48 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:48 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:49 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:49 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:50 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:50 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:51 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:51 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:52 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:52 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:53 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:53 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:54 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:54 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:55 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:55 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:56 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:56 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:57 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:57 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:58 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:58 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:59 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:59 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:60 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:60 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:61 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:61 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:62 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:62 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:63 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:63 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:64 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:64 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:65 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:65 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:66 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:66 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:67 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:67 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:68 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:68 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:69 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:69 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:70 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:70 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:71 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:71 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:72 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:72 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:73 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:73 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:74 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:74 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:75 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:75 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:76 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:76 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:77 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:77 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:78 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:78 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:79 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:79 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:80 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:80 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:81 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:81 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:82 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:82 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:83 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:83 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:84 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:84 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:85 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:85 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:86 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:86 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:87 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:87 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:88 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:88 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:89 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:89 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:90 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:90 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:91 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:91 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:92 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:92 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:93 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:93 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:94 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:94 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:95 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:95 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:96 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:96 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:97 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:97 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:98 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:98 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:99 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:99 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:100 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:100 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:101 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:101 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:102 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:102 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:103 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:103 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:104 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:104 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:105 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:105 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:106 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:106 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:108 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:108 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:109 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:109 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:110 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:110 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:111 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:111 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:112 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:112 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:113 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:113 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:114 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:114 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:115 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:115 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:116 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:116 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:117 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:117 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:118 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:118 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:119 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:119 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:120 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:120 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:121 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:121 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:122 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:122 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:123 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:123 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:124 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:124 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:125 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:125 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:126 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:126 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:127 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:127 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:128 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:128 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:129 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:129 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:130 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:130 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:131 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:131 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:132 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:132 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:133 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:133 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:134 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:134 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:135 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:135 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:136 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:136 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:137 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:137 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:138 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:138 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:139 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:139 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:140 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:140 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:141 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:141 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:142 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:142 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:143 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:143 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:144 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:144 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:145 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:145 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:146 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:146 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:147 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:147 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:148 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:148 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:149 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:149 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:150 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:150 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:151 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:151 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:152 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:152 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:153 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:153 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:154 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:154 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:155 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:155 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:156 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:156 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:157 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:157 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:158 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:158 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:159 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:159 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:160 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:160 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:161 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:161 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:162 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:162 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:163 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:163 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:164 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:164 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:165 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:165 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:166 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:166 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:167 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:167 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:168 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:168 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:169 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:169 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:170 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:170 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:171 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:171 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:172 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:172 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:173 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:173 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:174 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:174 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:175 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:175 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:176 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:176 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:177 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:177 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:178 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:178 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:179 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:179 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:180 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:180 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:181 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:181 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:182 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:182 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:183 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:183 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:184 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:184 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:185 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:185 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:186 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:186 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:187 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:187 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:188 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:188 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:189 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:189 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:190 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:190 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:191 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:191 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:192 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:192 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:193 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:193 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:194 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:194 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:195 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:195 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:196 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:196 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:197 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:197 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:198 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:198 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:199 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:199 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:200 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:200 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:201 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:201 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:202 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:202 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:203 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:203 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:204 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:204 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:205 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:205 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:206 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:206 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:207 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:207 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:208 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:208 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:209 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:209 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:210 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:210 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:211 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:211 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:217 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:220 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:222 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:226 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:226 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:227 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:227 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:228 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:228 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:229 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:229 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:230 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:230 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:231 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:231 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:232 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:232 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:233 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:233 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:234 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:234 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:235 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:235 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:236 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:236 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:237 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:237 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:238 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:238 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:239 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:239 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:240 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:240 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:241 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:241 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:242 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:242 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:243 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:243 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:244 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:244 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:245 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:245 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:246 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:246 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:247 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:247 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:248 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:248 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:249 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:249 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:250 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:250 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:251 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:251 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:252 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:252 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:253 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:253 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:254 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:254 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:255 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:255 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:256 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:256 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:257 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:257 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:258 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:258 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:259 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:259 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:260 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:260 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:261 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:261 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:262 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:262 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:263 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:263 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:264 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:264 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:265 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:265 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:266 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:266 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:267 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:267 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:268 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:268 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:269 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:269 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:270 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:270 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:271 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:271 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:272 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:272 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:273 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:273 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:274 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:274 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:275 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:275 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:276 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:276 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:277 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:277 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:278 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:278 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:279 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:279 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:280 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:280 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:281 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:281 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:282 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:282 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:283 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:283 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:284 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:284 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:285 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:285 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:286 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:286 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:287 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:287 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:288 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:288 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:289 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:289 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:290 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:290 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:291 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:291 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:292 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:292 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:293 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:293 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:294 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:294 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:295 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:295 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:296 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:296 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:297 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:297 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:298 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:298 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:299 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:299 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:300 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:300 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:301 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:301 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:302 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:302 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:303 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:303 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:304 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:304 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:305 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:305 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:306 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:306 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:307 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:307 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:308 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:308 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:309 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:309 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:310 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:310 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:311 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:311 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:312 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:312 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:313 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:313 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:314 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:314 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:315 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:315 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:316 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:316 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:317 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:317 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:318 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:318 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:319 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:319 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:320 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:320 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:321 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:321 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:322 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:322 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:323 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:323 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:324 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:324 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:325 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:325 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:326 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:326 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:327 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:327 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:328 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:328 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:329 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:329 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:330 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:330 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:331 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:331 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:332 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:332 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:333 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:333 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:334 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:334 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:335 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:335 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:336 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:336 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:337 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:337 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:338 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:338 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:339 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:339 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:340 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:340 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:341 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:341 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:342 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:342 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:343 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:343 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:344 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:344 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:345 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:345 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:346 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:346 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:347 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:347 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:348 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:348 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:349 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:349 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:350 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:350 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:351 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:351 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:352 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:352 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:353 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:353 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:354 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:354 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:355 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:355 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:356 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:356 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:357 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:357 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:358 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:358 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:359 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:359 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:360 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:360 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:361 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:361 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:362 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:362 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:363 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:363 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:364 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:364 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:365 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:365 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:366 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:366 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:367 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:367 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:368 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:368 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:369 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:369 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:370 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:370 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:371 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:371 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:372 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:372 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:373 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:373 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:374 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:374 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:375 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:375 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:376 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:376 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:377 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:377 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:378 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:378 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:379 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:379 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:380 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:380 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:382 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:382 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:383 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:383 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:384 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:384 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:385 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:385 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:386 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:386 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:387 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:387 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:388 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:388 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:389 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:389 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:390 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:390 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:391 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:391 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:392 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:392 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:393 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:393 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:394 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:394 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:395 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:395 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:396 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:396 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:397 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:397 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:398 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:398 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:399 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:399 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:400 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:400 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:401 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:401 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:402 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:402 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:403 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:403 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:404 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:404 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:405 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:405 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:406 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:406 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:407 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:407 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:408 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:408 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:409 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:409 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:410 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:410 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:411 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:411 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:418 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:420 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:423 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:423 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:424 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:424 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:425 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:425 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:426 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:426 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:427 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:427 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:428 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:428 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:429 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:429 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:430 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:430 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:431 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:431 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:432 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:432 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:433 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:433 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:434 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:434 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:435 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:435 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:436 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:436 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:437 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:437 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:438 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:438 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:439 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:439 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:440 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:440 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:441 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:441 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:442 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:442 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:443 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:443 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:444 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:444 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:445 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:445 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:446 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:446 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:447 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:447 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:448 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:448 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:449 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:449 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:450 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:450 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:451 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:451 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:452 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:452 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:453 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:453 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:454 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:454 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:455 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:455 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:456 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:456 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:457 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:457 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:458 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:458 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:459 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:459 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:460 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:460 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:461 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:461 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:462 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:462 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:463 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:463 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:464 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:464 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:465 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:465 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:466 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:466 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:467 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:467 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:468 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:468 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:469 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:469 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:470 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:470 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:471 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:471 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:472 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:472 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:473 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:473 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:474 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:474 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:475 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:475 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:476 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:476 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:477 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:477 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:478 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:478 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:479 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:479 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:480 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:480 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:481 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:481 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:482 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:482 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:483 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:483 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:484 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:484 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:485 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:485 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:486 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:486 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:487 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:487 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:488 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:488 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:489 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:489 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:490 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:490 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:491 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:491 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:492 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:492 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:493 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:493 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:494 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:494 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:495 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:495 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:496 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:496 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:497 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:497 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:498 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:498 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:499 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:499 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:500 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:500 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:501 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:501 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:502 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:502 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:503 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:503 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:504 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:504 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:505 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:505 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:506 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:506 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:507 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:507 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:508 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:508 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:509 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:509 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:510 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:510 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:511 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:511 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:512 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:512 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:513 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:513 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:514 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:514 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:515 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:515 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:516 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:516 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:517 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:517 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:518 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:518 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:519 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:519 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:520 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:520 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:521 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:521 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:522 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:522 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:523 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:523 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:524 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:524 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:525 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:525 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:526 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:526 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:527 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:527 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:528 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:528 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:529 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:529 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:530 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:530 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:531 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:531 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:536 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:537 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp.zs:538 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] [crafttweaker]: Error executing {[10:crafttweaker]: loot/thp.zs}: Method code too large!
+java.lang.RuntimeException: Method code too large!
+	at org.objectweb.asm.MethodWriter.getSize(MethodWriter.java:2079)
+	at org.objectweb.asm.ClassWriter.toByteArray(ClassWriter.java:838)
+	at stanhebben.zenscript.ZenModule.compileScripts(ZenModule.java:161)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:228)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_403_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:750)
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[10:crafttweaker]: thp_changes.zs}
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:5 > could not find package null
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:6 > could not find package null
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:7 > could not find package null
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:27: Could not resolve <backpack : bound_leather>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:28: Could not resolve <backpack : bound_leather>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:34: Could not resolve <torchmaster : mega_torch>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:35: Could not resolve <torchmaster : mega_torch>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:49: Could not resolve <betterbuilderswands : wandstone>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:50: Could not resolve <betterbuilderswands : wandiron>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:51: Could not resolve <betterbuilderswands : wanddiamond>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:54: Could not resolve <pvj : juniper_pressure_plate>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:55: Could not resolve <pvj : cherry_blossom_pressure_plate>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:56: Could not resolve <pvj : jacaranda_pressure_plate>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:57: Could not resolve <pvj : ice_formation>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:58: Could not resolve <growthcraft_cellar : cork_sapling>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:61: Could not resolve <hexxitgear : hexical_essence>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:61: Could not resolve <hexxitgear : hexbiscus>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:64: Could not resolve <cyclopstek : cyclops_eye>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:70: Could not resolve <hexxitgear : hexical_diamond>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:82: Could not resolve <nyx : lunar_water_bottle>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:87: Could not resolve <thermalfoundation : material : 16>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:87: Could not resolve <thermalfoundation : material : 16>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:87: Could not resolve <thermalfoundation : material : 16>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:87: Could not resolve <thermalfoundation : material : 16>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:101: Could not resolve <hexxitgear : hexical_diamond>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:102: Could not resolve <hexxitgear : hexical_diamond>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:103: Could not resolve <nyx : fallen_star>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:104: Could not resolve <hexxitgear : hexical_essence>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:104: Could not resolve <hexxitgear : hexical_essence>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:105: Could not resolve <hexxitgear : hexical_essence>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:108: Could not resolve <asr : diamond_giant_sword>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:109: Could not resolve <asr : diamond_giant_sword>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:114: Could not resolve <asr : golden_giant_sword>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:115: Could not resolve <asr : golden_giant_sword>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:119: Could not resolve <asr : iron_giant_sword>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:120: Could not resolve <asr : iron_giant_sword>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:124: Could not resolve <asr : stone_giant_sword>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:125: Could not resolve <asr : stone_giant_sword>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:129: Could not resolve <asr : wooden_giant_sword>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:130: Could not resolve <asr : wooden_giant_sword>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:163: Could not resolve <birdsnests : birdsnest>
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:22 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:23 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:24 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:49 > not a valid lvalue
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:50 > not a valid lvalue
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:51 > not a valid lvalue
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:54 > not a valid lvalue
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:55 > not a valid lvalue
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:56 > not a valid lvalue
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:57 > not a valid lvalue
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:58 > not a valid lvalue
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:64 > 2 methods available but none matches the parameters (any, string)
+This is usually an error in your script, not in the mod
+addDescription(ZenTypeNative: crafttweaker.item.IIngredient, string[])
+addDescription(ZenTypeNative: crafttweaker.item.IIngredient[], string[])
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:74 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:75 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:76 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:77 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:78 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:79 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] thp_changes.zs:82 > 2 methods available but none matches the parameters (any, string)
+This is usually an error in your script, not in the mod
+addDescription(ZenTypeNative: crafttweaker.item.IIngredient, string[])
+addDescription(ZenTypeNative: crafttweaker.item.IIngredient[], string[])
+[INITIALIZATION][SERVER][ERROR] [crafttweaker]: Error executing {[10:crafttweaker]: thp_changes.zs}: Bad type on operand stack
+Exception Details:
+  Location:
+    Thp_changes.__script__()V @189: invokestatic
+  Reason:
+    Type 'stanhebben/zenscript/value/IAny' (current frame, stack[4]) is not assignable to 'java/lang/String'
+  Current Frame:
+    bci: @189
+    flags: { }
+    locals: { }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, 'stanhebben/zenscript/value/IAny' }
+  Bytecode:
+    0x0000000: 120b 120c b800 1212 14b9 001a 0200 b200
+    0x0000010: 2012 0b12 0cb8 0012 03b9 0026 0300 b200
+    0x0000020: 2012 0b12 0cb8 0012 1227 bd00 2959 120c
+    0x0000030: 1227 bd00 2b59 120c 122d 120c b800 1253
+    0x0000040: 5912 2e01 5359 122f 122d 120c b800 1253
+    0x0000050: 5359 122e 1227 bd00 2b59 120c 1231 120c
+    0x0000060: b800 1253 5912 2e12 3112 0cb8 0012 5359
+    0x0000070: 122f 1231 120c b800 1253 5359 122f 1227
+    0x0000080: bd00 2b59 120c 122d 120c b800 1253 5912
+    0x0000090: 2e01 5359 122f 122d 120c b800 1253 5301
+    0x00000a0: 01b9 0035 0500 0112 2ebd 0037 5912 0c12
+    0x00000b0: 3959 c700 0857 01a7 0006 b800 3fb8 0045
+    0x00000c0: 53b9 0049 0200 4c01 122e bd00 3759 120c
+    0x00000d0: 124b 59c7 0008 5701 a700 06b8 003f b800
+    0x00000e0: 4553 b900 4902 004e 0112 2fbd 0037 5912
+    0x00000f0: 0c12 2f59 c700 0857 01a7 0006 b800 50b8
+    0x0000100: 0056 59c7 0008 5701 a700 06b8 0050 5359
+    0x0000110: 122e 122f 59c7 0008 5701 a700 06b8 0050
+    0x0000120: b800 5659 c700 0857 01a7 0006 b800 5053
+    0x0000130: b900 4902 0057 b200 2001 03b9 0026 0300
+    0x0000140: b200 2001 1227 bd00 2959 120c 1227 bd00
+    0x0000150: 2b59 120c 0153 5912 2e12 5812 0cb8 0012
+    0x0000160: 5359 122f 0153 5359 122e 1227 bd00 2b59
+    0x0000170: 120c 125a 120c b800 1253 5912 2e12 5812
+    0x0000180: 0cb8 0012 5359 122f 125a 120c b800 1253
+    0x0000190: 5359 122f 1227 bd00 2b59 120c 0153 5912
+    0x00001a0: 2e12 5812 0cb8 0012 5359 122f 0153 5301
+    0x00001b0: 01b9 0035 0500 b200 2001 03b9 0026 0300
+    0x00001c0: b200 2001 1227 bd00 2959 120c 1227 bd00
+    0x00001d0: 2b59 120c 125c 120c b800 1253 5912 2e12
+    0x00001e0: 5c12 0cb8 0012 5359 122f 125c 120c b800
+    0x00001f0: 1253 5359 122e 1227 bd00 2b59 120c 125e
+    0x0000200: 120c b800 1253 5912 2eb2 0062 1264 b900
+    0x0000210: 6a02 0053 5912 2f12 5e12 0cb8 0012 5353
+    0x0000220: 5912 2f12 27bd 002b 5912 0c12 6c12 0cb8
+    0x0000230: 0012 5359 122e b200 6212 64b9 006a 0200
+    0x0000240: 5359 122f 126c 120c b800 1253 5301 01b9
+    0x0000250: 0035 0500 126e 120c b800 1212 2ebd 0070
+    0x0000260: 5912 0c12 7253 b800 7812 7a12 0cb8 0012
+    0x0000270: 122e bd00 7059 120c 1272 53b8 0078 127c
+    0x0000280: 120c b800 1212 2ebd 0070 5912 0c12 7253
+    0x0000290: b800 7812 7e12 0cb8 0012 122e bd00 7059
+    0x00002a0: 120c 1272 53b8 0078 1280 120c b800 1212
+    0x00002b0: 2ebd 0070 5912 0c12 8253 b800 7812 8412
+    0x00002c0: 0cb8 0012 122e bd00 7059 120c 1286 53b8
+    0x00002d0: 0078 b200 2001 122e bd00 2b59 120c 0153
+    0x00002e0: 0101 b900 8a05 00b2 0020 128c 120c b800
+    0x00002f0: 1203 b900 2603 00b2 0020 128c 120c b800
+    0x0000300: 1212 27bd 0029 5912 0c12 27bd 002b 5912
+    0x0000310: 0c01 5359 122e 0153 5912 2f01 5353 5912
+    0x0000320: 2e12 27bd 002b 5912 0c12 8e12 0cb8 0012
+    0x0000330: 5359 122e 0153 5912 2f12 8e12 0cb8 0012
+    0x0000340: 5353 5912 2f12 27bd 002b 5912 0c12 9012
+    0x0000350: 0cb8 0012 5359 122e 0153 5912 2f12 9012
+    0x0000360: 0cb8 0012 5353 0101 b900 3505 0001 122e
+    0x0000370: bd00 3759 120c 1292 59c7 0008 5701 a700
+    0x0000380: 06b8 003f b800 4553 b900 4902 003a 0501
+    0x0000390: 122e bd00 3759 120c 1294 59c7 0008 5701
+    0x00003a0: a700 06b8 003f b800 4553 b900 4902 003a
+    0x00003b0: 0701 122e bd00 3759 120c 124b 59c7 0008
+    0x00003c0: 5701 a700 06b8 003f b800 4553 b900 4902
+    0x00003d0: 003a 0901 122e bd00 3759 120c 124b 59c7
+    0x00003e0: 0008 5701 a700 06b8 003f b800 4553 b900
+    0x00003f0: 4902 003a 0b01 122e bd00 3759 120c 1296
+    0x0000400: 59c7 0008 5701 a700 06b8 003f b800 4553
+    0x0000410: b900 4902 0057 0112 2ebd 0037 5912 0c12
+    0x0000420: 9859 c700 0857 01a7 0006 b800 3fb8 0045
+    0x0000430: 53b9 0049 0200 57b2 0020 129a 120c b800
+    0x0000440: 1212 9bb9 009f 0200 129b bd00 2b59 120c
+    0x0000450: 12a1 120c b800 1253 5912 2e12 a112 0cb8
+    0x0000460: 0012 5359 122f 12a1 120c b800 1253 5912
+    0x0000470: 2712 a112 0cb8 0012 5301 01b9 008a 0500
+    0x0000480: b200 2012 a312 0cb8 0012 129b b900 9f02
+    0x0000490: 0012 9bbd 002b 5912 0c12 a512 0cb8 0012
+    0x00004a0: 5359 122e 12a5 120c b800 1253 5912 2f12
+    0x00004b0: a512 0cb8 0012 5359 1227 12a5 120c b800
+    0x00004c0: 1253 0101 b900 8a05 00b2 0020 12a7 120c
+    0x00004d0: b800 1212 9bb9 009f 0200 129b bd00 2b59
+    0x00004e0: 120c 0153 5912 2e01 5359 122f 0153 5912
+    0x00004f0: 2701 5301 01b9 008a 0500 b200 2012 a912
+    0x0000500: 0cb8 0012 12aa b900 9f02 0012 27bd 0029
+    0x0000510: 5912 0c12 27bd 002b 5912 0c12 a712 0cb8
+    0x0000520: 0012 5359 122e 12a7 120c b800 1253 5912
+    0x0000530: 2f12 a712 0cb8 0012 5353 5912 2e12 27bd
+    0x0000540: 002b 5912 0c12 a712 0cb8 0012 5359 122e
+    0x0000550: 12ac 120c b800 1253 5912 2f12 a712 0cb8
+    0x0000560: 0012 5353 5912 2f12 27bd 002b 5912 0c12
+    0x0000570: a712 0cb8 0012 5359 122e 12a7 120c b800
+    0x0000580: 1253 5912 2f12 a712 0cb8 0012 5353 0101
+    0x0000590: b900 3505 00b2 0020 128e 120c b800 1203
+    0x00005a0: b900 2603 00b2 0020 128e 120c b800 1212
+    0x00005b0: 27bd 0029 5912 0c12 27bd 002b 5912 0c12
+    0x00005c0: ae12 0cb8 0012 5359 122e 12ae 120c b800
+    0x00005d0: 1253 5912 2f12 ae12 0cb8 0012 5353 5912
+    0x00005e0: 2e12 27bd 002b 5912 0c12 ae12 0cb8 0012
+    0x00005f0: 5359 122e 12b0 120c b800 1253 5912 2f12
+    0x0000600: ae12 0cb8 0012 5353 5912 2f12 27bd 002b
+    0x0000610: 5912 0c12 ae12 0cb8 0012 5359 122e 12ae
+    0x0000620: 120c b800 1253 5912 2f12 ae12 0cb8 0012
+    0x0000630: 5353 0101 b900 3505 00b2 0020 0103 b900
+    0x0000640: 2603 00b2 0020 0112 27bd 0029 5912 0c12
+    0x0000650: 27bd 002b 5912 0c01 5359 122e 0153 5912
+    0x0000660: 2f01 5353 5912 2e12 27bd 002b 5912 0c01
+    0x0000670: 5359 122e 1290 120c b800 1253 5912 2f01
+    0x0000680: 5353 5912 2f12 27bd 002b 5912 0c01 5359
+    0x0000690: 122e 0153 5912 2f01 5353 0101 b900 3505
+    0x00006a0: 00b2 0020 0103 b900 2603 00b2 0020 0112
+    0x00006b0: 27bd 0029 5912 0c12 27bd 002b 5912 0c01
+    0x00006c0: 5359 122e 1290 120c b800 1253 5912 2f12
+    0x00006d0: 9012 0cb8 0012 5353 5912 2e12 27bd 002b
+    0x00006e0: 5912 0c12 9012 0cb8 0012 5359 122e 1290
+    0x00006f0: 120c b800 1253 5912 2f12 9012 0cb8 0012
+    0x0000700: 5353 5912 2f12 27bd 002b 5912 0cb2 0062
+    0x0000710: 12b2 b900 6a02 0053 5912 2e12 9012 0cb8
+    0x0000720: 0012 5359 122f 0153 5301 01b9 0035 0500
+    0x0000730: b200 2001 03b9 0026 0300 b200 2001 1227
+    0x0000740: bd00 2959 120c 1227 bd00 2b59 120c 0153
+    0x0000750: 5912 2e12 ae12 0cb8 0012 5359 122f 12ae
+    0x0000760: 120c b800 1253 5359 122e 1227 bd00 2b59
+    0x0000770: 120c 12ae 120c b800 1253 5912 2e12 ae12
+    0x0000780: 0cb8 0012 5359 122f 12ae 120c b800 1253
+    0x0000790: 5359 122f 1227 bd00 2b59 120c b200 6212
+    0x00007a0: b2b9 006a 0200 5359 122e 12ae 120c b800
+    0x00007b0: 1253 5912 2f01 5353 0101 b900 3505 00b2
+    0x00007c0: 0020 0103 b900 2603 00b2 0020 0112 27bd
+    0x00007d0: 0029 5912 0c12 27bd 002b 5912 0c01 5359
+    0x00007e0: 122e 12b4 120c b800 1253 5912 2f12 b412
+    0x00007f0: 0cb8 0012 5353 5912 2e12 27bd 002b 5912
+    0x0000800: 0c12 b412 0cb8 0012 5359 122e 12b4 120c
+    0x0000810: b800 1253 5912 2f12 b412 0cb8 0012 5353
+    0x0000820: 5912 2f12 27bd 002b 5912 0cb2 0062 12b2
+    0x0000830: b900 6a02 0053 5912 2e12 b412 0cb8 0012
+    0x0000840: 5359 122f 0153 5301 01b9 0035 0500 b200
+    0x0000850: 2001 03b9 0026 0300 b200 2001 1227 bd00
+    0x0000860: 2959 120c 1227 bd00 2b59 120c 0153 5912
+    0x0000870: 2eb2 0062 12b6 b900 6a02 0053 5912 2fb2
+    0x0000880: 0062 12b6 b900 6a02 0053 5359 122e 1227
+    0x0000890: bd00 2b59 120c b200 6212 b6b9 006a 0200
+    0x00008a0: 5359 122e b200 6212 b6b9 006a 0200 5359
+    0x00008b0: 122f b200 6212 b6b9 006a 0200 5353 5912
+    0x00008c0: 2f12 27bd 002b 5912 0cb2 0062 12b2 b900
+    0x00008d0: 6a02 0053 5912 2eb2 0062 12b6 b900 6a02
+    0x00008e0: 0053 5912 2f01 5353 0101 b900 3505 00b2
+    0x00008f0: 0020 0103 b900 2603 00b2 0020 0112 27bd
+    0x0000900: 0029 5912 0c12 27bd 002b 5912 0c01 5359
+    0x0000910: 122e b200 6212 b8b9 006a 0200 5359 122f
+    0x0000920: b200 6212 b8b9 006a 0200 5353 5912 2e12
+    0x0000930: 27bd 002b 5912 0cb2 0062 12b8 b900 6a02
+    0x0000940: 0053 5912 2eb2 0062 12b8 b900 6a02 0053
+    0x0000950: 5912 2fb2 0062 12b8 b900 6a02 0053 5359
+    0x0000960: 122f 1227 bd00 2b59 120c b200 6212 b2b9
+    0x0000970: 006a 0200 5359 122e b200 6212 b8b9 006a
+    0x0000980: 0200 5359 122f 0153 5301 01b9 0035 0500
+    0x0000990: b200 2012 ba12 0cb8 0012 03b9 0026 0300
+    0x00009a0: b200 2012 ba12 0cb8 0012 1227 bd00 2959
+    0x00009b0: 120c 1227 bd00 2b59 120c 0153 5912 2eb2
+    0x00009c0: 0062 12b6 b900 6a02 0053 5912 2f01 5353
+    0x00009d0: 5912 2e12 27bd 002b 5912 0c01 5359 122e
+    0x00009e0: b200 6212 b6b9 006a 0200 5359 122f 0153
+    0x00009f0: 5359 122f 1227 bd00 2b59 120c 0153 5912
+    0x0000a00: 2eb2 0062 12b2 b900 6a02 0053 5912 2f01
+    0x0000a10: 5353 0101 b900 3505 00b2 0020 12bc 120c
+    0x0000a20: b800 1203 b900 2603 00b2 0020 12bc 120c
+    0x0000a30: b800 1212 27bd 0029 5912 0c12 27bd 002b
+    0x0000a40: 5912 0c01 5359 122e b200 6212 b6b9 006a
+    0x0000a50: 0200 5359 122f 0153 5359 122e 1227 bd00
+    0x0000a60: 2b59 120c 0153 5912 2eb2 0062 12b2 b900
+    0x0000a70: 6a02 0053 5912 2f01 5353 5912 2f12 27bd
+    0x0000a80: 002b 5912 0c01 5359 122e b200 6212 b2b9
+    0x0000a90: 006a 0200 5359 122f 0153 5301 01b9 0035
+    0x0000aa0: 0500 b200 2012 be12 0cb8 0012 03b9 0026
+    0x0000ab0: 0300 b200 2012 be12 0cb8 0012 1227 bd00
+    0x0000ac0: 2959 120c 1227 bd00 2b59 120c b200 6212
+    0x0000ad0: b6b9 006a 0200 5359 122e b200 6212 b6b9
+    0x0000ae0: 006a 0200 5359 122f b200 6212 b6b9 006a
+    0x0000af0: 0200 5353 5912 2e12 27bd 002b 5912 0c01
+    0x0000b00: 5359 122e b200 6212 b2b9 006a 0200 5359
+    0x0000b10: 122f 0153 5359 122f 1227 bd00 2b59 120c
+    0x0000b20: 0153 5912 2eb2 0062 12b2 b900 6a02 0053
+    0x0000b30: 5912 2f01 5353 0101 b900 3505 00b2 0020
+    0x0000b40: 12c0 120c b800 1203 b900 2603 00b2 0020
+    0x0000b50: 12c0 120c b800 1212 27bd 0029 5912 0c12
+    0x0000b60: 27bd 002b 5912 0cb2 0062 12b6 b900 6a02
+    0x0000b70: 0053 5912 2eb2 0062 12b6 b900 6a02 0053
+    0x0000b80: 5912 2f01 5353 5912 2e12 27bd 002b 5912
+    0x0000b90: 0cb2 0062 12b6 b900 6a02 0053 5912 2eb2
+    0x0000ba0: 0062 12b2 b900 6a02 0053 5912 2f01 5353
+    0x0000bb0: 5912 2f12 27bd 002b 5912 0c01 5359 122e
+    0x0000bc0: b200 6212 b2b9 006a 0200 5359 122f 0153
+    0x0000bd0: 5301 01b9 0035 0500 b200 2012 c212 0cb8
+    0x0000be0: 0012 03b9 0026 0300 b200 2012 c212 0cb8
+    0x0000bf0: 0012 1227 bd00 2959 120c 1227 bd00 2b59
+    0x0000c00: 120c b200 6212 b6b9 006a 0200 5359 122e
+    0x0000c10: b200 6212 b6b9 006a 0200 5359 122f 0153
+    0x0000c20: 5359 122e 1227 bd00 2b59 120c 0153 5912
+    0x0000c30: 2eb2 0062 12b2 b900 6a02 0053 5912 2f01
+    0x0000c40: 5353 5912 2f12 27bd 002b 5912 0c01 5359
+    0x0000c50: 122e b200 6212 b2b9 006a 0200 5359 122f
+    0x0000c60: 0153 5301 01b9 0035 0500 0112 2ebd 0037
+    0x0000c70: 5912 0cb2 00c6 12c8 b800 45b9 00ce 0200
+    0x0000c80: 59c7 0008 5701 a700 06b8 003f 53b9 0049
+    0x0000c90: 0200 57b2 0020 12d0 120c b800 1203 b900
+    0x0000ca0: 2603 00b2 0020 12d0 120c b800 1212 9bb9
+    0x0000cb0: 009f 0200 1227 bd00 2959 120c 1227 bd00
+    0x0000cc0: 2b59 120c 1258 120c b800 1253 5912 2e12
+    0x0000cd0: 5812 0cb8 0012 5359 122f 1258 120c b800
+    0x0000ce0: 1253 5359 122e 1227 bd00 2b59 120c 1258
+    0x0000cf0: 120c b800 1253 5912 2e01 5359 122f 1258
+    0x0000d00: 120c b800 1253 5359 122f 1227 bd00 2b59
+    0x0000d10: 120c 1258 120c b800 1253 5912 2e12 5812
+    0x0000d20: 0cb8 0012 5359 122f 1258 120c b800 1253
+    0x0000d30: 5301 01b9 0035 0500 b200 2012 d201 b900
+    0x0000d40: d603 00b2 0020 12d8 01b9 00d6 0300 b200
+    0x0000d50: 2012 da01 b900 d603 00b2 0020 12dc 01b9
+    0x0000d60: 00d6 0300 b200 2012 de01 b900 d603 00b2
+    0x0000d70: 0020 12e0 01b9 00d6 0300 b200 2012 e201
+    0x0000d80: b900 d603 00b2 0020 12e4 01b9 00d6 0300
+    0x0000d90: b200 2012 e601 b900 d603 00b2 0020 12e8
+    0x0000da0: 01b9 00d6 0300 b200 2012 ea01 b900 d603
+    0x0000db0: 00b2 0020 12ec 01b9 00d6 0300 b200 2012
+    0x0000dc0: ee01 b900 d603 00b2 0020 12f0 01b9 00d6
+    0x0000dd0: 0300 b200 2012 f201 b900 d603 00b2 0020
+    0x0000de0: 12f4 01b9 00d6 0300 b1                 
+  Stackmap Table:
+    full_frame(@186,{},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@189,{},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@219,{Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@222,{Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@252,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Integer})
+    full_frame(@255,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@267,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#248]})
+    full_frame(@270,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@285,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Integer})
+    full_frame(@288,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@300,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#248]})
+    full_frame(@303,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@897,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@900,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@931,{Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@934,{Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@965,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@968,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@999,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@1002,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@1033,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@1036,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@1066,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@1069,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@3209,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#250]})
+    full_frame(@3212,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+
+java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    Thp_changes.__script__()V @189: invokestatic
+  Reason:
+    Type 'stanhebben/zenscript/value/IAny' (current frame, stack[4]) is not assignable to 'java/lang/String'
+  Current Frame:
+    bci: @189
+    flags: { }
+    locals: { }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, 'stanhebben/zenscript/value/IAny' }
+  Bytecode:
+    0x0000000: 120b 120c b800 1212 14b9 001a 0200 b200
+    0x0000010: 2012 0b12 0cb8 0012 03b9 0026 0300 b200
+    0x0000020: 2012 0b12 0cb8 0012 1227 bd00 2959 120c
+    0x0000030: 1227 bd00 2b59 120c 122d 120c b800 1253
+    0x0000040: 5912 2e01 5359 122f 122d 120c b800 1253
+    0x0000050: 5359 122e 1227 bd00 2b59 120c 1231 120c
+    0x0000060: b800 1253 5912 2e12 3112 0cb8 0012 5359
+    0x0000070: 122f 1231 120c b800 1253 5359 122f 1227
+    0x0000080: bd00 2b59 120c 122d 120c b800 1253 5912
+    0x0000090: 2e01 5359 122f 122d 120c b800 1253 5301
+    0x00000a0: 01b9 0035 0500 0112 2ebd 0037 5912 0c12
+    0x00000b0: 3959 c700 0857 01a7 0006 b800 3fb8 0045
+    0x00000c0: 53b9 0049 0200 4c01 122e bd00 3759 120c
+    0x00000d0: 124b 59c7 0008 5701 a700 06b8 003f b800
+    0x00000e0: 4553 b900 4902 004e 0112 2fbd 0037 5912
+    0x00000f0: 0c12 2f59 c700 0857 01a7 0006 b800 50b8
+    0x0000100: 0056 59c7 0008 5701 a700 06b8 0050 5359
+    0x0000110: 122e 122f 59c7 0008 5701 a700 06b8 0050
+    0x0000120: b800 5659 c700 0857 01a7 0006 b800 5053
+    0x0000130: b900 4902 0057 b200 2001 03b9 0026 0300
+    0x0000140: b200 2001 1227 bd00 2959 120c 1227 bd00
+    0x0000150: 2b59 120c 0153 5912 2e12 5812 0cb8 0012
+    0x0000160: 5359 122f 0153 5359 122e 1227 bd00 2b59
+    0x0000170: 120c 125a 120c b800 1253 5912 2e12 5812
+    0x0000180: 0cb8 0012 5359 122f 125a 120c b800 1253
+    0x0000190: 5359 122f 1227 bd00 2b59 120c 0153 5912
+    0x00001a0: 2e12 5812 0cb8 0012 5359 122f 0153 5301
+    0x00001b0: 01b9 0035 0500 b200 2001 03b9 0026 0300
+    0x00001c0: b200 2001 1227 bd00 2959 120c 1227 bd00
+    0x00001d0: 2b59 120c 125c 120c b800 1253 5912 2e12
+    0x00001e0: 5c12 0cb8 0012 5359 122f 125c 120c b800
+    0x00001f0: 1253 5359 122e 1227 bd00 2b59 120c 125e
+    0x0000200: 120c b800 1253 5912 2eb2 0062 1264 b900
+    0x0000210: 6a02 0053 5912 2f12 5e12 0cb8 0012 5353
+    0x0000220: 5912 2f12 27bd 002b 5912 0c12 6c12 0cb8
+    0x0000230: 0012 5359 122e b200 6212 64b9 006a 0200
+    0x0000240: 5359 122f 126c 120c b800 1253 5301 01b9
+    0x0000250: 0035 0500 126e 120c b800 1212 2ebd 0070
+    0x0000260: 5912 0c12 7253 b800 7812 7a12 0cb8 0012
+    0x0000270: 122e bd00 7059 120c 1272 53b8 0078 127c
+    0x0000280: 120c b800 1212 2ebd 0070 5912 0c12 7253
+    0x0000290: b800 7812 7e12 0cb8 0012 122e bd00 7059
+    0x00002a0: 120c 1272 53b8 0078 1280 120c b800 1212
+    0x00002b0: 2ebd 0070 5912 0c12 8253 b800 7812 8412
+    0x00002c0: 0cb8 0012 122e bd00 7059 120c 1286 53b8
+    0x00002d0: 0078 b200 2001 122e bd00 2b59 120c 0153
+    0x00002e0: 0101 b900 8a05 00b2 0020 128c 120c b800
+    0x00002f0: 1203 b900 2603 00b2 0020 128c 120c b800
+    0x0000300: 1212 27bd 0029 5912 0c12 27bd 002b 5912
+    0x0000310: 0c01 5359 122e 0153 5912 2f01 5353 5912
+    0x0000320: 2e12 27bd 002b 5912 0c12 8e12 0cb8 0012
+    0x0000330: 5359 122e 0153 5912 2f12 8e12 0cb8 0012
+    0x0000340: 5353 5912 2f12 27bd 002b 5912 0c12 9012
+    0x0000350: 0cb8 0012 5359 122e 0153 5912 2f12 9012
+    0x0000360: 0cb8 0012 5353 0101 b900 3505 0001 122e
+    0x0000370: bd00 3759 120c 1292 59c7 0008 5701 a700
+    0x0000380: 06b8 003f b800 4553 b900 4902 003a 0501
+    0x0000390: 122e bd00 3759 120c 1294 59c7 0008 5701
+    0x00003a0: a700 06b8 003f b800 4553 b900 4902 003a
+    0x00003b0: 0701 122e bd00 3759 120c 124b 59c7 0008
+    0x00003c0: 5701 a700 06b8 003f b800 4553 b900 4902
+    0x00003d0: 003a 0901 122e bd00 3759 120c 124b 59c7
+    0x00003e0: 0008 5701 a700 06b8 003f b800 4553 b900
+    0x00003f0: 4902 003a 0b01 122e bd00 3759 120c 1296
+    0x0000400: 59c7 0008 5701 a700 06b8 003f b800 4553
+    0x0000410: b900 4902 0057 0112 2ebd 0037 5912 0c12
+    0x0000420: 9859 c700 0857 01a7 0006 b800 3fb8 0045
+    0x0000430: 53b9 0049 0200 57b2 0020 129a 120c b800
+    0x0000440: 1212 9bb9 009f 0200 129b bd00 2b59 120c
+    0x0000450: 12a1 120c b800 1253 5912 2e12 a112 0cb8
+    0x0000460: 0012 5359 122f 12a1 120c b800 1253 5912
+    0x0000470: 2712 a112 0cb8 0012 5301 01b9 008a 0500
+    0x0000480: b200 2012 a312 0cb8 0012 129b b900 9f02
+    0x0000490: 0012 9bbd 002b 5912 0c12 a512 0cb8 0012
+    0x00004a0: 5359 122e 12a5 120c b800 1253 5912 2f12
+    0x00004b0: a512 0cb8 0012 5359 1227 12a5 120c b800
+    0x00004c0: 1253 0101 b900 8a05 00b2 0020 12a7 120c
+    0x00004d0: b800 1212 9bb9 009f 0200 129b bd00 2b59
+    0x00004e0: 120c 0153 5912 2e01 5359 122f 0153 5912
+    0x00004f0: 2701 5301 01b9 008a 0500 b200 2012 a912
+    0x0000500: 0cb8 0012 12aa b900 9f02 0012 27bd 0029
+    0x0000510: 5912 0c12 27bd 002b 5912 0c12 a712 0cb8
+    0x0000520: 0012 5359 122e 12a7 120c b800 1253 5912
+    0x0000530: 2f12 a712 0cb8 0012 5353 5912 2e12 27bd
+    0x0000540: 002b 5912 0c12 a712 0cb8 0012 5359 122e
+    0x0000550: 12ac 120c b800 1253 5912 2f12 a712 0cb8
+    0x0000560: 0012 5353 5912 2f12 27bd 002b 5912 0c12
+    0x0000570: a712 0cb8 0012 5359 122e 12a7 120c b800
+    0x0000580: 1253 5912 2f12 a712 0cb8 0012 5353 0101
+    0x0000590: b900 3505 00b2 0020 128e 120c b800 1203
+    0x00005a0: b900 2603 00b2 0020 128e 120c b800 1212
+    0x00005b0: 27bd 0029 5912 0c12 27bd 002b 5912 0c12
+    0x00005c0: ae12 0cb8 0012 5359 122e 12ae 120c b800
+    0x00005d0: 1253 5912 2f12 ae12 0cb8 0012 5353 5912
+    0x00005e0: 2e12 27bd 002b 5912 0c12 ae12 0cb8 0012
+    0x00005f0: 5359 122e 12b0 120c b800 1253 5912 2f12
+    0x0000600: ae12 0cb8 0012 5353 5912 2f12 27bd 002b
+    0x0000610: 5912 0c12 ae12 0cb8 0012 5359 122e 12ae
+    0x0000620: 120c b800 1253 5912 2f12 ae12 0cb8 0012
+    0x0000630: 5353 0101 b900 3505 00b2 0020 0103 b900
+    0x0000640: 2603 00b2 0020 0112 27bd 0029 5912 0c12
+    0x0000650: 27bd 002b 5912 0c01 5359 122e 0153 5912
+    0x0000660: 2f01 5353 5912 2e12 27bd 002b 5912 0c01
+    0x0000670: 5359 122e 1290 120c b800 1253 5912 2f01
+    0x0000680: 5353 5912 2f12 27bd 002b 5912 0c01 5359
+    0x0000690: 122e 0153 5912 2f01 5353 0101 b900 3505
+    0x00006a0: 00b2 0020 0103 b900 2603 00b2 0020 0112
+    0x00006b0: 27bd 0029 5912 0c12 27bd 002b 5912 0c01
+    0x00006c0: 5359 122e 1290 120c b800 1253 5912 2f12
+    0x00006d0: 9012 0cb8 0012 5353 5912 2e12 27bd 002b
+    0x00006e0: 5912 0c12 9012 0cb8 0012 5359 122e 1290
+    0x00006f0: 120c b800 1253 5912 2f12 9012 0cb8 0012
+    0x0000700: 5353 5912 2f12 27bd 002b 5912 0cb2 0062
+    0x0000710: 12b2 b900 6a02 0053 5912 2e12 9012 0cb8
+    0x0000720: 0012 5359 122f 0153 5301 01b9 0035 0500
+    0x0000730: b200 2001 03b9 0026 0300 b200 2001 1227
+    0x0000740: bd00 2959 120c 1227 bd00 2b59 120c 0153
+    0x0000750: 5912 2e12 ae12 0cb8 0012 5359 122f 12ae
+    0x0000760: 120c b800 1253 5359 122e 1227 bd00 2b59
+    0x0000770: 120c 12ae 120c b800 1253 5912 2e12 ae12
+    0x0000780: 0cb8 0012 5359 122f 12ae 120c b800 1253
+    0x0000790: 5359 122f 1227 bd00 2b59 120c b200 6212
+    0x00007a0: b2b9 006a 0200 5359 122e 12ae 120c b800
+    0x00007b0: 1253 5912 2f01 5353 0101 b900 3505 00b2
+    0x00007c0: 0020 0103 b900 2603 00b2 0020 0112 27bd
+    0x00007d0: 0029 5912 0c12 27bd 002b 5912 0c01 5359
+    0x00007e0: 122e 12b4 120c b800 1253 5912 2f12 b412
+    0x00007f0: 0cb8 0012 5353 5912 2e12 27bd 002b 5912
+    0x0000800: 0c12 b412 0cb8 0012 5359 122e 12b4 120c
+    0x0000810: b800 1253 5912 2f12 b412 0cb8 0012 5353
+    0x0000820: 5912 2f12 27bd 002b 5912 0cb2 0062 12b2
+    0x0000830: b900 6a02 0053 5912 2e12 b412 0cb8 0012
+    0x0000840: 5359 122f 0153 5301 01b9 0035 0500 b200
+    0x0000850: 2001 03b9 0026 0300 b200 2001 1227 bd00
+    0x0000860: 2959 120c 1227 bd00 2b59 120c 0153 5912
+    0x0000870: 2eb2 0062 12b6 b900 6a02 0053 5912 2fb2
+    0x0000880: 0062 12b6 b900 6a02 0053 5359 122e 1227
+    0x0000890: bd00 2b59 120c b200 6212 b6b9 006a 0200
+    0x00008a0: 5359 122e b200 6212 b6b9 006a 0200 5359
+    0x00008b0: 122f b200 6212 b6b9 006a 0200 5353 5912
+    0x00008c0: 2f12 27bd 002b 5912 0cb2 0062 12b2 b900
+    0x00008d0: 6a02 0053 5912 2eb2 0062 12b6 b900 6a02
+    0x00008e0: 0053 5912 2f01 5353 0101 b900 3505 00b2
+    0x00008f0: 0020 0103 b900 2603 00b2 0020 0112 27bd
+    0x0000900: 0029 5912 0c12 27bd 002b 5912 0c01 5359
+    0x0000910: 122e b200 6212 b8b9 006a 0200 5359 122f
+    0x0000920: b200 6212 b8b9 006a 0200 5353 5912 2e12
+    0x0000930: 27bd 002b 5912 0cb2 0062 12b8 b900 6a02
+    0x0000940: 0053 5912 2eb2 0062 12b8 b900 6a02 0053
+    0x0000950: 5912 2fb2 0062 12b8 b900 6a02 0053 5359
+    0x0000960: 122f 1227 bd00 2b59 120c b200 6212 b2b9
+    0x0000970: 006a 0200 5359 122e b200 6212 b8b9 006a
+    0x0000980: 0200 5359 122f 0153 5301 01b9 0035 0500
+    0x0000990: b200 2012 ba12 0cb8 0012 03b9 0026 0300
+    0x00009a0: b200 2012 ba12 0cb8 0012 1227 bd00 2959
+    0x00009b0: 120c 1227 bd00 2b59 120c 0153 5912 2eb2
+    0x00009c0: 0062 12b6 b900 6a02 0053 5912 2f01 5353
+    0x00009d0: 5912 2e12 27bd 002b 5912 0c01 5359 122e
+    0x00009e0: b200 6212 b6b9 006a 0200 5359 122f 0153
+    0x00009f0: 5359 122f 1227 bd00 2b59 120c 0153 5912
+    0x0000a00: 2eb2 0062 12b2 b900 6a02 0053 5912 2f01
+    0x0000a10: 5353 0101 b900 3505 00b2 0020 12bc 120c
+    0x0000a20: b800 1203 b900 2603 00b2 0020 12bc 120c
+    0x0000a30: b800 1212 27bd 0029 5912 0c12 27bd 002b
+    0x0000a40: 5912 0c01 5359 122e b200 6212 b6b9 006a
+    0x0000a50: 0200 5359 122f 0153 5359 122e 1227 bd00
+    0x0000a60: 2b59 120c 0153 5912 2eb2 0062 12b2 b900
+    0x0000a70: 6a02 0053 5912 2f01 5353 5912 2f12 27bd
+    0x0000a80: 002b 5912 0c01 5359 122e b200 6212 b2b9
+    0x0000a90: 006a 0200 5359 122f 0153 5301 01b9 0035
+    0x0000aa0: 0500 b200 2012 be12 0cb8 0012 03b9 0026
+    0x0000ab0: 0300 b200 2012 be12 0cb8 0012 1227 bd00
+    0x0000ac0: 2959 120c 1227 bd00 2b59 120c b200 6212
+    0x0000ad0: b6b9 006a 0200 5359 122e b200 6212 b6b9
+    0x0000ae0: 006a 0200 5359 122f b200 6212 b6b9 006a
+    0x0000af0: 0200 5353 5912 2e12 27bd 002b 5912 0c01
+    0x0000b00: 5359 122e b200 6212 b2b9 006a 0200 5359
+    0x0000b10: 122f 0153 5359 122f 1227 bd00 2b59 120c
+    0x0000b20: 0153 5912 2eb2 0062 12b2 b900 6a02 0053
+    0x0000b30: 5912 2f01 5353 0101 b900 3505 00b2 0020
+    0x0000b40: 12c0 120c b800 1203 b900 2603 00b2 0020
+    0x0000b50: 12c0 120c b800 1212 27bd 0029 5912 0c12
+    0x0000b60: 27bd 002b 5912 0cb2 0062 12b6 b900 6a02
+    0x0000b70: 0053 5912 2eb2 0062 12b6 b900 6a02 0053
+    0x0000b80: 5912 2f01 5353 5912 2e12 27bd 002b 5912
+    0x0000b90: 0cb2 0062 12b6 b900 6a02 0053 5912 2eb2
+    0x0000ba0: 0062 12b2 b900 6a02 0053 5912 2f01 5353
+    0x0000bb0: 5912 2f12 27bd 002b 5912 0c01 5359 122e
+    0x0000bc0: b200 6212 b2b9 006a 0200 5359 122f 0153
+    0x0000bd0: 5301 01b9 0035 0500 b200 2012 c212 0cb8
+    0x0000be0: 0012 03b9 0026 0300 b200 2012 c212 0cb8
+    0x0000bf0: 0012 1227 bd00 2959 120c 1227 bd00 2b59
+    0x0000c00: 120c b200 6212 b6b9 006a 0200 5359 122e
+    0x0000c10: b200 6212 b6b9 006a 0200 5359 122f 0153
+    0x0000c20: 5359 122e 1227 bd00 2b59 120c 0153 5912
+    0x0000c30: 2eb2 0062 12b2 b900 6a02 0053 5912 2f01
+    0x0000c40: 5353 5912 2f12 27bd 002b 5912 0c01 5359
+    0x0000c50: 122e b200 6212 b2b9 006a 0200 5359 122f
+    0x0000c60: 0153 5301 01b9 0035 0500 0112 2ebd 0037
+    0x0000c70: 5912 0cb2 00c6 12c8 b800 45b9 00ce 0200
+    0x0000c80: 59c7 0008 5701 a700 06b8 003f 53b9 0049
+    0x0000c90: 0200 57b2 0020 12d0 120c b800 1203 b900
+    0x0000ca0: 2603 00b2 0020 12d0 120c b800 1212 9bb9
+    0x0000cb0: 009f 0200 1227 bd00 2959 120c 1227 bd00
+    0x0000cc0: 2b59 120c 1258 120c b800 1253 5912 2e12
+    0x0000cd0: 5812 0cb8 0012 5359 122f 1258 120c b800
+    0x0000ce0: 1253 5359 122e 1227 bd00 2b59 120c 1258
+    0x0000cf0: 120c b800 1253 5912 2e01 5359 122f 1258
+    0x0000d00: 120c b800 1253 5359 122f 1227 bd00 2b59
+    0x0000d10: 120c 1258 120c b800 1253 5912 2e12 5812
+    0x0000d20: 0cb8 0012 5359 122f 1258 120c b800 1253
+    0x0000d30: 5301 01b9 0035 0500 b200 2012 d201 b900
+    0x0000d40: d603 00b2 0020 12d8 01b9 00d6 0300 b200
+    0x0000d50: 2012 da01 b900 d603 00b2 0020 12dc 01b9
+    0x0000d60: 00d6 0300 b200 2012 de01 b900 d603 00b2
+    0x0000d70: 0020 12e0 01b9 00d6 0300 b200 2012 e201
+    0x0000d80: b900 d603 00b2 0020 12e4 01b9 00d6 0300
+    0x0000d90: b200 2012 e601 b900 d603 00b2 0020 12e8
+    0x0000da0: 01b9 00d6 0300 b200 2012 ea01 b900 d603
+    0x0000db0: 00b2 0020 12ec 01b9 00d6 0300 b200 2012
+    0x0000dc0: ee01 b900 d603 00b2 0020 12f0 01b9 00d6
+    0x0000dd0: 0300 b200 2012 f201 b900 d603 00b2 0020
+    0x0000de0: 12f4 01b9 00d6 0300 b1                 
+  Stackmap Table:
+    full_frame(@186,{},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@189,{},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@219,{Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@222,{Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@252,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Integer})
+    full_frame(@255,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@267,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#248]})
+    full_frame(@270,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@285,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Integer})
+    full_frame(@288,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@300,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#248]})
+    full_frame(@303,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@897,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@900,{Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@931,{Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@934,{Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@965,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@968,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@999,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@1002,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@1033,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@1036,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@1066,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#112]})
+    full_frame(@1069,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+    full_frame(@3209,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#250]})
+    full_frame(@3212,{Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55],Top,Object[#55]},{Null,Object[#246],Object[#246],Integer,Object[#55]})
+
+	at __ZenMain__.run(Thp_changes)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_403_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:750)
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[10:crafttweaker]: thp_craftable_starting_gear.zs}
+[INITIALIZATION][SERVER][ERROR] thp_craftable_starting_gear.zs:11: Could not resolve <akashictome : tome>
+[INITIALIZATION][SERVER][ERROR] thp_craftable_starting_gear.zs:22: Could not resolve <hexxitgear : hexical_essence>
+[INITIALIZATION][SERVER][ERROR] thp_craftable_starting_gear.zs:25: Could not resolve <patchouli : guide_book>
+[INITIALIZATION][SERVER][ERROR] thp_craftable_starting_gear.zs:26: Could not resolve <hexxitgear : hexical_essence>
+[INITIALIZATION][SERVER][ERROR] thp_craftable_starting_gear.zs:20 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] [crafttweaker]: Error executing {[10:crafttweaker]: thp_craftable_starting_gear.zs}: Truncated class file
+java.lang.ClassFormatError: Truncated class file
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:635)
+	at stanhebben.zenscript.ZenModule$MyClassLoader.loadClass(ZenModule.java:419)
+	at Thp_craftable_starting_gear.__script__(thp_craftable_starting_gear.zs:11)
+	at __ZenMain__.run(Thp_craftable_starting_gear)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_403_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:750)
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: loot/thp_modded_chests.zs}
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:5 > could not find package null
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:6 > could not find package null
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:9 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:10 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:13 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:14 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:15 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:16 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:17 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:18 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_modded_chests.zs:22 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: loot/thp_modded_chests.zs}: Bad type on operand stack
+Exception Details:
+  Location:
+    loot\Thp_modded_chests.__script__()V @23: invokestatic
+  Reason:
+    Type 'stanhebben/zenscript/value/IAny' (current frame, stack[4]) is not assignable to 'java/lang/String'
+  Current Frame:
+    bci: @23
+    flags: { }
+    locals: { }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, 'stanhebben/zenscript/value/IAny' }
+  Bytecode:
+    0x0000000: 0112 0abd 000c 5912 0d12 0f59 c700 0857
+    0x0000010: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000020: 4c01 120a bd00 0c59 120d 1221 59c7 0008
+    0x0000030: 5701 a700 06b8 0015 b800 1b53 b900 1f02
+    0x0000040: 0057 0112 0abd 000c 5912 0d12 2359 c700
+    0x0000050: 0857 01a7 0006 b800 15b8 001b 53b9 001f
+    0x0000060: 0200 4e01 120a bd00 0c59 120d 1225 59c7
+    0x0000070: 0008 5701 a700 06b8 0015 b800 1b53 b900
+    0x0000080: 1f02 003a 0501 120a bd00 0c59 120d 1227
+    0x0000090: 59c7 0008 5701 a700 06b8 0015 b800 1b53
+    0x00000a0: b900 1f02 003a 0701 120a bd00 0c59 120d
+    0x00000b0: 1229 59c7 0008 5701 a700 06b8 0015 b800
+    0x00000c0: 1b53 b900 1f02 0057 0112 0abd 000c 5912
+    0x00000d0: 0d12 2959 c700 0857 01a7 0006 b800 15b8
+    0x00000e0: 001b 53b9 001f 0200 5701 120a bd00 0c59
+    0x00000f0: 120d 1229 59c7 0008 5701 a700 06b8 0015
+    0x0000100: b800 1b53 b900 1f02 0057 2b12 0a04 04b8
+    0x0000110: 002f 5701 120a bd00 0c59 120d 1227 59c7
+    0x0000120: 0008 5701 a700 06b8 0015 b800 1b53 b900
+    0x0000130: 1f02 0012 3003 03b8 002f 57b1          
+  Stackmap Table:
+    full_frame(@20,{},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@23,{},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@53,{Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@56,{Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@86,{Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@89,{Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@119,{Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@122,{Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@153,{Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@156,{Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@187,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@190,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@220,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@223,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@253,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@256,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@295,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@298,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+
+java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    loot\Thp_modded_chests.__script__()V @23: invokestatic
+  Reason:
+    Type 'stanhebben/zenscript/value/IAny' (current frame, stack[4]) is not assignable to 'java/lang/String'
+  Current Frame:
+    bci: @23
+    flags: { }
+    locals: { }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, 'stanhebben/zenscript/value/IAny' }
+  Bytecode:
+    0x0000000: 0112 0abd 000c 5912 0d12 0f59 c700 0857
+    0x0000010: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000020: 4c01 120a bd00 0c59 120d 1221 59c7 0008
+    0x0000030: 5701 a700 06b8 0015 b800 1b53 b900 1f02
+    0x0000040: 0057 0112 0abd 000c 5912 0d12 2359 c700
+    0x0000050: 0857 01a7 0006 b800 15b8 001b 53b9 001f
+    0x0000060: 0200 4e01 120a bd00 0c59 120d 1225 59c7
+    0x0000070: 0008 5701 a700 06b8 0015 b800 1b53 b900
+    0x0000080: 1f02 003a 0501 120a bd00 0c59 120d 1227
+    0x0000090: 59c7 0008 5701 a700 06b8 0015 b800 1b53
+    0x00000a0: b900 1f02 003a 0701 120a bd00 0c59 120d
+    0x00000b0: 1229 59c7 0008 5701 a700 06b8 0015 b800
+    0x00000c0: 1b53 b900 1f02 0057 0112 0abd 000c 5912
+    0x00000d0: 0d12 2959 c700 0857 01a7 0006 b800 15b8
+    0x00000e0: 001b 53b9 001f 0200 5701 120a bd00 0c59
+    0x00000f0: 120d 1229 59c7 0008 5701 a700 06b8 0015
+    0x0000100: b800 1b53 b900 1f02 0057 2b12 0a04 04b8
+    0x0000110: 002f 5701 120a bd00 0c59 120d 1227 59c7
+    0x0000120: 0008 5701 a700 06b8 0015 b800 1b53 b900
+    0x0000130: 1f02 0012 3003 03b8 002f 57b1          
+  Stackmap Table:
+    full_frame(@20,{},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@23,{},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@53,{Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@56,{Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@86,{Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@89,{Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@119,{Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@122,{Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@153,{Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@156,{Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@187,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@190,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@220,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@223,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@253,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@256,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+    full_frame(@295,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#52]})
+    full_frame(@298,{Top,Object[#12],Top,Object[#12],Top,Object[#12],Top,Object[#12]},{Null,Object[#50],Object[#50],Integer,Object[#12]})
+
+	at __ZenMain__.run(loot\Thp_modded_chests)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_403_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:750)
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: loot/thp_vanilla_chests.zs}
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:5 > could not find package null
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:6 > could not find package null
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:9 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:10 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:11 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:12 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:13 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:14 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:15 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:16 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:17 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:18 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:19 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:20 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:23 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:24 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:26 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] loot/thp_vanilla_chests.zs:27 > any values not yet supported
+[INITIALIZATION][SERVER][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: loot/thp_vanilla_chests.zs}: Bad type on operand stack
+Exception Details:
+  Location:
+    loot\Thp_vanilla_chests.__script__()V @23: invokestatic
+  Reason:
+    Type 'stanhebben/zenscript/value/IAny' (current frame, stack[4]) is not assignable to 'java/lang/String'
+  Current Frame:
+    bci: @23
+    flags: { }
+    locals: { }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, 'stanhebben/zenscript/value/IAny' }
+  Bytecode:
+    0x0000000: 0112 0abd 000c 5912 0d12 0f59 c700 0857
+    0x0000010: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000020: 1220 0303 b800 2657 0112 0abd 000c 5912
+    0x0000030: 0d12 2859 c700 0857 01a7 0006 b800 15b8
+    0x0000040: 001b 53b9 001f 0200 120a 0303 b800 2657
+    0x0000050: 0112 0abd 000c 5912 0d12 2a59 c700 0857
+    0x0000060: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000070: 1220 0303 b800 2657 0112 0abd 000c 5912
+    0x0000080: 0d12 2c59 c700 0857 01a7 0006 b800 15b8
+    0x0000090: 001b 53b9 001f 0200 1220 0303 b800 2657
+    0x00000a0: 0112 0abd 000c 5912 0d12 2e59 c700 0857
+    0x00000b0: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x00000c0: 1220 0303 b800 2657 0112 0abd 000c 5912
+    0x00000d0: 0d12 3059 c700 0857 01a7 0006 b800 15b8
+    0x00000e0: 001b 53b9 001f 0200 1231 0303 b800 2657
+    0x00000f0: 0112 0abd 000c 5912 0d12 3359 c700 0857
+    0x0000100: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000110: 1220 0303 b800 2657 0112 0abd 000c 5912
+    0x0000120: 0d12 3559 c700 0857 01a7 0006 b800 15b8
+    0x0000130: 001b 53b9 001f 0200 120a 0303 b800 2657
+    0x0000140: 0112 0abd 000c 5912 0d12 3759 c700 0857
+    0x0000150: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000160: 120a 0303 b800 2657 0112 0abd 000c 5912
+    0x0000170: 0d12 3959 c700 0857 01a7 0006 b800 15b8
+    0x0000180: 001b 53b9 001f 0200 1231 0303 b800 2657
+    0x0000190: 0112 0abd 000c 5912 0d12 3b59 c700 0857
+    0x00001a0: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x00001b0: 1220 0303 b800 2657 0112 0abd 000c 5912
+    0x00001c0: 0d12 3d59 c700 0857 01a7 0006 b800 15b8
+    0x00001d0: 001b 53b9 001f 0200 1220 0303 b800 2657
+    0x00001e0: 0112 0abd 000c 5912 0d12 0f59 c700 0857
+    0x00001f0: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000200: 4c01 120a bd00 0c59 120d 1228 59c7 0008
+    0x0000210: 5701 a700 06b8 0015 b800 1b53 b900 1f02
+    0x0000220: 004e 0112 0abd 000c 5912 0d12 3f59 c700
+    0x0000230: 0857 01a7 0006 b800 15b8 001b 53b9 001f
+    0x0000240: 0200 5701 120a bd00 0c59 120d 123f 59c7
+    0x0000250: 0008 5701 a700 06b8 0015 b800 1b53 b900
+    0x0000260: 1f02 0057 b1                           
+  Stackmap Table:
+    full_frame(@20,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@23,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@60,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@63,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@100,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@103,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@140,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@143,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@180,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@183,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@220,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@223,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@260,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@263,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@300,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@303,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@340,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@343,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@380,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@383,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@420,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@423,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@460,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@463,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@500,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@503,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@533,{Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@536,{Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@566,{Top,Object[#12],Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@569,{Top,Object[#12],Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@599,{Top,Object[#12],Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@602,{Top,Object[#12],Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+
+java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    loot\Thp_vanilla_chests.__script__()V @23: invokestatic
+  Reason:
+    Type 'stanhebben/zenscript/value/IAny' (current frame, stack[4]) is not assignable to 'java/lang/String'
+  Current Frame:
+    bci: @23
+    flags: { }
+    locals: { }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, 'stanhebben/zenscript/value/IAny' }
+  Bytecode:
+    0x0000000: 0112 0abd 000c 5912 0d12 0f59 c700 0857
+    0x0000010: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000020: 1220 0303 b800 2657 0112 0abd 000c 5912
+    0x0000030: 0d12 2859 c700 0857 01a7 0006 b800 15b8
+    0x0000040: 001b 53b9 001f 0200 120a 0303 b800 2657
+    0x0000050: 0112 0abd 000c 5912 0d12 2a59 c700 0857
+    0x0000060: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000070: 1220 0303 b800 2657 0112 0abd 000c 5912
+    0x0000080: 0d12 2c59 c700 0857 01a7 0006 b800 15b8
+    0x0000090: 001b 53b9 001f 0200 1220 0303 b800 2657
+    0x00000a0: 0112 0abd 000c 5912 0d12 2e59 c700 0857
+    0x00000b0: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x00000c0: 1220 0303 b800 2657 0112 0abd 000c 5912
+    0x00000d0: 0d12 3059 c700 0857 01a7 0006 b800 15b8
+    0x00000e0: 001b 53b9 001f 0200 1231 0303 b800 2657
+    0x00000f0: 0112 0abd 000c 5912 0d12 3359 c700 0857
+    0x0000100: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000110: 1220 0303 b800 2657 0112 0abd 000c 5912
+    0x0000120: 0d12 3559 c700 0857 01a7 0006 b800 15b8
+    0x0000130: 001b 53b9 001f 0200 120a 0303 b800 2657
+    0x0000140: 0112 0abd 000c 5912 0d12 3759 c700 0857
+    0x0000150: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000160: 120a 0303 b800 2657 0112 0abd 000c 5912
+    0x0000170: 0d12 3959 c700 0857 01a7 0006 b800 15b8
+    0x0000180: 001b 53b9 001f 0200 1231 0303 b800 2657
+    0x0000190: 0112 0abd 000c 5912 0d12 3b59 c700 0857
+    0x00001a0: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x00001b0: 1220 0303 b800 2657 0112 0abd 000c 5912
+    0x00001c0: 0d12 3d59 c700 0857 01a7 0006 b800 15b8
+    0x00001d0: 001b 53b9 001f 0200 1220 0303 b800 2657
+    0x00001e0: 0112 0abd 000c 5912 0d12 0f59 c700 0857
+    0x00001f0: 01a7 0006 b800 15b8 001b 53b9 001f 0200
+    0x0000200: 4c01 120a bd00 0c59 120d 1228 59c7 0008
+    0x0000210: 5701 a700 06b8 0015 b800 1b53 b900 1f02
+    0x0000220: 004e 0112 0abd 000c 5912 0d12 3f59 c700
+    0x0000230: 0857 01a7 0006 b800 15b8 001b 53b9 001f
+    0x0000240: 0200 5701 120a bd00 0c59 120d 123f 59c7
+    0x0000250: 0008 5701 a700 06b8 0015 b800 1b53 b900
+    0x0000260: 1f02 0057 b1                           
+  Stackmap Table:
+    full_frame(@20,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@23,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@60,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@63,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@100,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@103,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@140,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@143,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@180,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@183,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@220,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@223,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@260,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@263,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@300,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@303,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@340,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@343,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@380,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@383,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@420,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@423,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@460,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@463,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@500,{},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@503,{},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@533,{Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@536,{Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@566,{Top,Object[#12],Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@569,{Top,Object[#12],Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+    full_frame(@599,{Top,Object[#12],Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#67]})
+    full_frame(@602,{Top,Object[#12],Top,Object[#12]},{Null,Object[#65],Object[#65],Integer,Object[#12]})
+
+	at __ZenMain__.run(loot\Thp_vanilla_chests)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_403_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:750)
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 391ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs

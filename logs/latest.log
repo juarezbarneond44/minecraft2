@@ -1,0 +1,872 @@
+[02:47:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:47:23] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:47:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:47:23] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[02:47:23] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_352, running on Linux:amd64:5.4.0-1096-gcp, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[02:47:23] [main/INFO] [FML]: Searching /home/minecraft2juarez/minecraft2/./mods for mods
+[02:47:23] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2]+SecurityCraft+v1.9.4.jar
+[02:47:23] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[02:47:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Chocolate_Quest_Repoured-1.12.2-2.6.12B.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:47:23] [main/WARN] [FML]: The coremod CQRPlugin (team.cqr.cqrepoured.asm.CQRPlugin) is not signed!
+[02:47:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:47:23] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:47:23] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[02:47:23] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from levelup2-1.5.8.jar
+[02:47:23] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-1.12.2_HD_U_G5.jar
+[02:47:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:47:23] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[02:47:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ReachFix-1.12.2-1.0.6.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:47:23] [main/WARN] [FML]: The coremod ReachFixPlugin (meldexun.reachfix.asm.ReachFixPlugin) is not signed!
+[02:47:23] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.4.1.jar
+[02:47:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:47:23] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[02:47:23] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/home/minecraft2juarez/minecraft2/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.4.jar Service=LaunchWrapper Env=SERVER
+[02:47:23] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[02:47:23] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[02:47:23] [main/WARN] [FML]: The coremod LevelUpCore (levelup2.core.LevelUpCore) is not signed!
+[02:47:23] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[02:47:23] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[02:47:23] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[02:47:23] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[02:47:23] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[02:47:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:47:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:47:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:47:23] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[02:47:23] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[02:47:23] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[02:47:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
+[02:47:24] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
+[02:47:25] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
+[02:47:25] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[02:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[02:47:25] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@30404dba
+[02:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[02:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:47:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:47:25] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[02:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[02:47:25] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[02:47:25] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[02:47:25] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[02:47:25] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:25] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:25] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:25] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[02:47:25] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:25] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[02:47:25] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:25] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[02:47:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.meldexun.reachfix.asm.ReachFixClassTransformer' was detected and will no longer process meta class data
+[02:47:26] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[02:47:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[02:47:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[02:47:26] [main/INFO] [mixin]: A re-entrant transformer 'guichaguri.betterfps.transformers.MathTransformer' was detected and will no longer process meta class data
+[02:47:26] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[02:47:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[02:47:26] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[02:47:26] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[02:47:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[02:47:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[02:47:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
+[02:47:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[02:47:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:26] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[02:47:26] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[02:47:26] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:26] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[02:47:27] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[02:47:27] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[02:47:27] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:27] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[02:47:27] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:27] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[02:47:27] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:27] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[02:47:27] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:27] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[02:47:27] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:27] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[02:47:27] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:27] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[02:47:27] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:27] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[02:47:27] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:27] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[02:47:27] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[02:47:27] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:27] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:27] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[02:47:27] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:27] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[02:47:27] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:27] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[02:47:27] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:27] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[02:47:27] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:27] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[02:47:27] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[02:47:27] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[02:47:28] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentDamage
+[02:47:28] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[02:47:28] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:28] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[02:47:28] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[02:47:28] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:28] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[02:47:28] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[02:47:28] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:28] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[02:47:28] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:28] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[02:47:28] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[02:47:28] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:28] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[02:47:28] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:28] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemBanner
+[02:47:28] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [appendHoverTextFromTileEntityTag, func_185054_a] Descriptor (Lnet/minecraft/item/ItemStack;Ljava/util/List;)V)
+[02:47:28] [main/INFO] [Quark ASM]: Failed to locate the method!
+[02:47:28] [main/INFO] [meldexun.asmutil.ASMUtil]: Transforming method: EntityPotion#isWaterSensitiveEntity(EntityLivingBase)
+[02:47:28] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.ai.EntityAITarget
+[02:47:28] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
+[02:47:28] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:28] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:29] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
+[02:47:29] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [matches, func_77569_a] Descriptor (Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z)
+[02:47:29] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:29] [main/INFO] [Quark ASM]: Located patch target node INVOKESTATIC net/minecraft/tileentity/TileEntityBanner.func_175113_c (Lnet/minecraft/item/ItemStack;)I
+[02:47:29] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:29] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[02:47:29] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerMerchant
+[02:47:29] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[02:47:29] [main/INFO] [Quark ASM]: Located Method, patching...
+[02:47:29] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[02:47:29] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[02:47:29] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[02:47:29] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[02:47:29] [main/INFO] [Quark ASM]: Patch result: true
+[02:47:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[02:47:30] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[02:47:30] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[02:47:30] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[02:47:30] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[02:47:30] [Server thread/WARN] [FML]: Enabling removal of erroring Entities - USE AT YOUR OWN RISK
+[02:47:30] [Server thread/WARN] [FML]: Enabling removal of erroring Tile Entities - USE AT YOUR OWN RISK
+[02:47:30] [Server thread/INFO] [FML]: Searching /home/minecraft2juarez/minecraft2/./mods for mods
+[02:47:30] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.4
+[02:47:31] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
+[02:47:31] [Server thread/INFO] [FML]: Disabling mod enchdesc it is client side only.
+[02:47:31] [Server thread/INFO] [FML]: Disabling mod fpsreducer it is client side only.
+[02:47:32] [Server thread/INFO] [FML]: Disabling mod neat it is client side only.
+[02:47:32] [Server thread/WARN] [FML]: Mod reachfix is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.6
+[02:47:32] [Server thread/INFO] [FML]: Disabling mod spartanhudbaubles it is client side only.
+[02:47:32] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[02:47:32] [Server thread/WARN] [FML]: Mod xpbook is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v2.0.1
+[02:47:32] [Server thread/INFO] [FML]: Forge Mod Loader has identified 65 mods to load
+[02:47:32] [Server thread/WARN] [FML]: ****************************************
+[02:47:32] [Server thread/WARN] [FML]: * The API QuarkAPI from source /home/minecraft2juarez/minecraft2/./mods/Quark-r1.6-179.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[02:47:32] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:114)
+[02:47:32] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:174)
+[02:47:32] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:232)
+[02:47:32] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:569)
+[02:47:32] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+[02:47:32] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)...
+[02:47:32] [Server thread/WARN] [FML]: ****************************************
+[02:47:32] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[02:47:32] [Server thread/WARN] [FML]: Missing English translation for biolib: assets/biolib/lang/en_us.lang
+[02:47:32] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[02:47:32] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
+[02:47:32] [Server thread/WARN] [FML]: Missing English translation for excp: assets/excp/lang/en_us.lang
+[02:47:32] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[02:47:32] [Server thread/WARN] [FML]: Missing English translation for reachfix: assets/reachfix/lang/en_us.lang
+[02:47:32] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[02:47:32] [Server thread/WARN] [FML]: Missing English translation for subcommonlib: assets/subcommonlib/lang/en_us.lang
+[02:47:32] [Server thread/WARN] [FML]: Missing English translation for tinkers_reforged_preload: assets/tinkers_reforged_preload/lang/en_us.lang
+[02:47:32] [Server thread/INFO] [FML]: FML has found a non-mod file EnchantmentDescriptions-1.12.2-1.1.20.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[02:47:32] [Server thread/INFO] [FML]: FML has found a non-mod file FpsReducer-mc1.12.2-1.20.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[02:47:32] [Server thread/INFO] [FML]: FML has found a non-mod file Neat 1.4-17.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[02:47:32] [Server thread/INFO] [FML]: FML has found a non-mod file SpartanHUDBaubles-1.12.2-1.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[02:47:33] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, securitycraft, abyssalcraft, ancientbeasts, artifacts, autoreglib, baubles, biolib, bookshelf, bountifulbaubles, cqrepoured, clumps, comforts, crafttweaker, crafttweakerjei, creativecore, elevatorid, eplus, umm3185118519, excp, geckolib3, gb, grimoireofgaia, heroicarmory, waila, illagers_plus, infernalmobs, jei, journeymap, levelup2, lootbags, mantle, mutantbeasts, nocubessrparmory, playerrevive, potionfingers, quark, randomloot, reachfix, redstoneflux, rpginventory, scalinghealth, silentlib, soulboundarmory, spartanshields, spartanweaponry, srparasites, subcommonlib, tconstruct, tesla, tetra, theoneprobe, tinkers_reforged, tinkers_reforged_preload, tombstone, xat, uteamcore, usefulbackpacks, waystones, xpbook, jade] at CLIENT
+[02:47:33] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, securitycraft, abyssalcraft, ancientbeasts, artifacts, autoreglib, baubles, biolib, bookshelf, bountifulbaubles, cqrepoured, clumps, comforts, crafttweaker, crafttweakerjei, creativecore, elevatorid, eplus, umm3185118519, excp, geckolib3, gb, grimoireofgaia, heroicarmory, waila, illagers_plus, infernalmobs, jei, journeymap, levelup2, lootbags, mantle, mutantbeasts, nocubessrparmory, playerrevive, potionfingers, quark, randomloot, reachfix, redstoneflux, rpginventory, scalinghealth, silentlib, soulboundarmory, spartanshields, spartanweaponry, srparasites, subcommonlib, tconstruct, tesla, tetra, theoneprobe, tinkers_reforged, tinkers_reforged_preload, tombstone, xat, uteamcore, usefulbackpacks, waystones, xpbook, jade] at SERVER
+[02:47:33] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[02:47:33] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[02:47:33] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[02:47:33] [Server thread/INFO] [Quark ASM]: Patch result: true
+[02:47:35] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[02:47:35] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[02:47:35] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[02:47:35] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[02:47:35] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[02:47:36] [Server thread/ERROR] [FML]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
+[02:47:36] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[02:47:36] [Server thread/INFO] [FML]: Found 1918 ObjectHolder annotations
+[02:47:36] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[02:47:36] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[02:47:37] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[02:47:37] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[02:47:37] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[02:47:37] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[02:47:37] [Server thread/INFO] [Quark ASM]: Patch result: true
+[02:47:37] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[02:47:37] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[02:47:37] [Server thread/INFO] [Quark ASM]: Patch result: true
+[02:47:37] [Server thread/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[02:47:39] [Server thread/INFO] [AbyssalCraft]: Starting the Integration Handler.
+[02:47:40] [Server thread/INFO] [Quark]: Module management is enabled
+[02:47:40] [Server thread/INFO] [Quark]: Module misc is enabled
+[02:47:40] [Server thread/INFO] [Quark]: Module automation is enabled
+[02:47:40] [Server thread/INFO] [Quark]: Module tweaks is enabled
+[02:47:40] [Server thread/INFO] [Quark]: Module vanity is enabled
+[02:47:40] [Server thread/INFO] [Quark]: Module world is enabled
+[02:47:40] [Server thread/INFO] [Quark]: Module building is enabled
+[02:47:40] [Server thread/INFO] [Quark]: Module client is enabled
+[02:47:40] [Server thread/INFO] [Quark]: Module experimental is disabled
+[02:47:40] [Server thread/INFO] [Quark]: Module decoration is enabled
+[02:47:42] [Server thread/INFO] [STDOUT]: [heroicarmory.HeroicArmory:preInit:20]: heroicarmory:preInit
+[02:47:43] [Server thread/INFO] [lootbags]: Your current LootBags version is: 2.5.8.7; Your current LootBags Config Version is: CONFIGVER258
+[02:47:43] [Server thread/INFO] [Scaling Health]: Trying to change max health cap to 2048
+[02:47:43] [Server thread/INFO] [Scaling Health]: Config successfully loaded!
+[02:47:43] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[02:47:43] [Server thread/INFO] [XAT]: Trinkets and Baubles: Generating VIP List
+[02:47:43] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[02:47:43] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[02:47:43] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[02:47:44] [Server thread/INFO] [theoneprobe]: The One Probe Detected TESLA: enabling support
+[02:47:44] [Server thread/INFO] [theoneprobe]: The One Probe Detected RedstoneFlux: enabling support
+[02:47:44] [Server thread/INFO] [theoneprobe]: The One Probe Detected Baubles: enabling support
+[02:47:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `enderference`, expected `tinkers_reforged`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `insatiable`, expected `tinkers_reforged`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `magnetic`, expected `tinkers_reforged`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `momentum`, expected `tinkers_reforged`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `dot`, expected `tinkers_reforged`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `splinter`, expected `tinkers_reforged`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fire`, expected `cqrepoured`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:45] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
+[02:47:45] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
+[02:47:45] [Server thread/INFO] [FML]: Applying holder lookups
+[02:47:45] [Server thread/INFO] [FML]: Holder lookups applied
+[02:47:46] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
+[02:47:46] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
+[02:47:46] [Server thread/INFO] [grimoireofgaia]: Registering items...
+[02:47:46] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
+[02:47:46] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[02:47:46] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[02:47:46] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[02:47:46] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[02:47:46] [Server thread/INFO] [FML]: Applying holder lookups
+[02:47:46] [Server thread/INFO] [FML]: Holder lookups applied
+[02:47:46] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[02:47:46] [Server thread/INFO] [grimoireofgaia]: Registering entities...
+[02:47:47] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
+[02:47:47] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[02:47:47] [Server thread/INFO] [XAT]: Generating Potions
+[02:47:47] [Server thread/INFO] [XAT]: Finished Generating Potions
+[02:47:47] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
+[02:47:47] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
+[02:47:47] [Server thread/INFO] [FML]: Applying holder lookups
+[02:47:47] [Server thread/INFO] [FML]: Holder lookups applied
+[02:47:47] [Server thread/INFO] [FML]: Applying holder lookups
+[02:47:47] [Server thread/INFO] [FML]: Holder lookups applied
+[02:47:47] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:47:47] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[02:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[02:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[02:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 0.0.0.0:25565
+[02:47:47] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[02:47:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:47:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[02:47:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:47:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:47:47] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$getIngredient$0(CraftingHelper.java:152) ~[CraftingHelper.class:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:150) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:qivium/nugget
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:qivium_nugget'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:qivium/ingot
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:qivium_nugget'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:lavium/nugget
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:lavium_nugget'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:lavium/ingot
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:lavium_nugget'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:kovar/nugget
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:kovar_nugget'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:kovar/ingot
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:kovar_nugget'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:ice_alloy/nugget
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:ice_alloy_ingot'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:ice_alloy/ingot
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:ice_alloy_nugget'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:ice_alloy/gear
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:ice_alloy_ingot'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:honey_alloy/nugget
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:honey_alloy_ingot'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:honey_alloy/ingot
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:honey_alloy_nugget'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:honey_alloy/gear
+com.google.gson.JsonSyntaxException: Unknown item 'tinkers_reforged:honey_alloy_ingot'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:atum/limestone/stone_pressure_plate
+com.google.gson.JsonSyntaxException: Unknown item 'atum:limestone'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/ERROR] [FML]: Parsing error loading recipe tinkers_reforged:atum/limestone/comparator
+com.google.gson.JsonSyntaxException: Unknown item 'atum:limestone'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_352]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_352]
+[02:47:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[02:47:48] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
+[02:47:48] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
+[02:47:48] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[02:47:48] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[02:47:48] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[02:47:48] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:47:48] [Server thread/INFO] [FML]: Applying holder lookups
+[02:47:48] [Server thread/INFO] [FML]: Holder lookups applied
+[02:47:49] [Server thread/INFO] [AbyssalCraft]: Just Enough Items is present, initializing informative stuff.
+[02:47:49] [Server thread/INFO] [AbyssalCraft]: Mod integrations found: [Just Enough Items]
+[02:47:49] [Server thread/INFO] [STDOUT]: [heroicarmory.HeroicArmory:init:26]: heroicarmory:init
+[02:47:49] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 25, config file at: /home/minecraft2juarez/minecraft2/config/infernalmobs.cfg
+[02:47:50] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[02:47:50] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[02:47:50] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[02:47:50] [Server thread/INFO] [tombstone]: Integration TOP
+[02:47:50] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:47:50] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:47:50] [Server thread/INFO] [STDOUT]: [net.geforcemods.securitycraft.ConfigHandler:loadEffects:211]: minecraft:weakness|200|2
+[02:47:50] [Server thread/INFO] [STDOUT]: [net.geforcemods.securitycraft.ConfigHandler:loadEffects:211]: minecraft:nausea|200|2
+[02:47:50] [Server thread/INFO] [STDOUT]: [net.geforcemods.securitycraft.ConfigHandler:loadEffects:211]: minecraft:slowness|200|2
+[02:47:50] [Server thread/INFO] [STDOUT]: [net.geforcemods.securitycraft.ConfigHandler:loadEffects:211]: minecraft:weakness|400|5
+[02:47:50] [Server thread/INFO] [STDOUT]: [net.geforcemods.securitycraft.ConfigHandler:loadEffects:211]: minecraft:nausea|400|5
+[02:47:50] [Server thread/INFO] [STDOUT]: [net.geforcemods.securitycraft.ConfigHandler:loadEffects:211]: minecraft:slowness|400|5
+[02:47:50] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Started adding oredict melting recipes
+[02:47:51] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:47:51] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Oredict melting recipes finished in 776.390256 ms
+[02:47:51] [Server thread/INFO] [cqrepoured]: Loading 19 dungeon configuration files...
+[02:47:51] [Server thread/INFO] [cqrepoured]: Loading 2 grid configuration files...
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.HeroicArmory:postInit:31]: heroicarmory:postInit
+[02:47:51] [Server thread/INFO] [levelup2.LevelUp2]: [Level Up 2] Mod initialized!
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'quark:chests/pirate_chest' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/simple_dungeon'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/nether_bridge'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/abandoned_mineshaft'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/jungle_temple'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/desert_pyramid'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/stronghold_corridor' because mod chests are disabled in config
+[02:47:51] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table cqrepoured:entities/bosses/ender_calamity
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/stronghold_corridor'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/storage_junk' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/igloo_chest'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'cqrepoured:chests/material' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/stronghold_crossing' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/village_blacksmith'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/end_city_treasure'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/house' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'cqrepoured:chests/treasure' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'cqrepoured:chests/equipment' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/mineshaft' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/stronghold_library'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/library' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/spawn_bonus_chest'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'cqrepoured:chests/clutter' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/blacksmith' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/stronghold_crossing'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/farmhouse' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/jungle_temple_dispenser'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/woodland_mansion'
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'cqrepoured:chests/food' because mod chests are disabled in config
+[02:47:51] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/storage_treasure' because mod chests are disabled in config
+[02:47:52] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[02:47:52] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[02:47:52] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[02:47:52] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[02:47:52] [Server thread/INFO] [Waila]: Starting Waila...
+[02:47:52] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[02:47:52] [Server thread/ERROR] [Waila]: Error discovering plugin for class snownee.jade.JadeClientPlugin: snownee.jade.JadeClientPlugin
+[02:47:52] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[02:47:52] [Server thread/INFO] [Waila]: Registering plugins...
+[02:47:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[02:47:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[02:47:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[02:47:52] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
+[02:47:52] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.waila.WailaDataProvider
+[02:47:52] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[02:47:52] [Server thread/INFO] [Waila]: Registering plugin at slimeknights.tconstruct.plugin.waila.WailaRegistrar
+[02:47:52] [Server thread/INFO] [Waila]: Registering plugin at snownee.jade.JadePlugin
+[02:47:52] [Server thread/INFO] [Waila]: Starting Waila took 67.19 ms
+[02:47:52] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 65 mods
+[02:47:52] [Server thread/INFO] [cqrepoured]: Successfully loaded texture set: TavernTS!
+[02:47:52] [Server thread/INFO] [cqrepoured]: Successfully loaded texture set: textureSetPreset!
+[02:47:52] [Server thread/INFO] [cqrepoured]: Loaded 2 texture Sets!
+[02:47:52] [Server thread/INFO] [cqrepoured]: Default factions loaded and initialized!
+[02:47:52] [Server thread/WARN] [cqrepoured]: Invalid entity-faction relation "iceandfire:dragonegg=DRAGONS"! Entity does not exists!
+[02:47:52] [Server thread/WARN] [cqrepoured]: Invalid entity-faction relation "iceandfire:firedragon=DRAGONS"! Entity does not exists!
+[02:47:52] [Server thread/WARN] [cqrepoured]: Invalid entity-faction relation "iceandfire:icedragon=DRAGONS"! Entity does not exists!
+[02:47:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[02:47:52] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[02:47:53] [Server thread/INFO] [FML]: Applying holder lookups
+[02:47:53] [Server thread/INFO] [FML]: Holder lookups applied
+[02:47:53] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:47:53] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3640286d)
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'quark:chests/pirate_chest' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/simple_dungeon'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/nether_bridge'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/abandoned_mineshaft'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/jungle_temple'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/desert_pyramid'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/stronghold_corridor' because mod chests are disabled in config
+[02:47:53] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table cqrepoured:entities/bosses/ender_calamity
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/stronghold_corridor'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/storage_junk' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/igloo_chest'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'cqrepoured:chests/material' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/stronghold_crossing' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/village_blacksmith'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/end_city_treasure'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/house' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'cqrepoured:chests/treasure' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'cqrepoured:chests/equipment' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/mineshaft' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/stronghold_library'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/library' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/spawn_bonus_chest'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'cqrepoured:chests/clutter' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/blacksmith' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/stronghold_crossing'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/farmhouse' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/jungle_temple_dispenser'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1831]: added loot to loot table 'minecraft:chests/woodland_mansion'
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'cqrepoured:chests/food' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [STDOUT]: [heroicarmory.init.ModItems:lootLoad:1827]: skipping loot table 'abyssalcraft:chests/omothol/storage_treasure' because mod chests are disabled in config
+[02:47:53] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 751 advancements
+[02:47:54] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3640286d)
+[02:47:54] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3640286d)
+[02:47:54] [Server thread/INFO] [FML]: Loading dimension 50 (world) (net.minecraft.server.dedicated.DedicatedServer@3640286d)
+[02:47:54] [Server thread/INFO] [FML]: Loading dimension 51 (world) (net.minecraft.server.dedicated.DedicatedServer@3640286d)
+[02:47:54] [Server thread/INFO] [FML]: Loading dimension 52 (world) (net.minecraft.server.dedicated.DedicatedServer@3640286d)
+[02:47:54] [Server thread/INFO] [FML]: Loading dimension 53 (world) (net.minecraft.server.dedicated.DedicatedServer@3640286d)
+[02:47:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[02:47:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 35%
+[02:47:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 85%
+[02:47:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.980s)! For help, type "help" or "?"
+[02:47:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting GS4 status listener
+[02:47:56] [Query Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Query running on 0.0.0.0:25565
+[02:47:58] [Server thread/INFO] [STDOUT]: [com.mic.randomloot.RandomLoot:serverLoad:57]: REGISTERING REFORGE COMMAND **************
+[02:47:58] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
+[02:47:58] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[02:47:58] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[02:47:58] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[02:47:58] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[02:47:58] [Server thread/INFO] [Quark ASM]: Patch result: true
+[02:47:59] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:47:59] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:47:59] [Server thread/INFO] [FML]: Unloading dimension 50
+[02:47:59] [Server thread/INFO] [FML]: Unloading dimension 51
+[02:47:59] [Server thread/INFO] [FML]: Unloading dimension 52
+[02:47:59] [Server thread/INFO] [FML]: Unloading dimension 53
+[02:48:01] [Server thread/INFO] [Scaling Health]: Blight Incomplete Form has died
+[02:48:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2204ms behind, skipping 44 tick(s)
+[02:48:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:48:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:48:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:48:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
